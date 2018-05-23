@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Julia Balbilla, Epigram 2 (29)</title>
+                <editor xml:id="gb">Gabriel Bodard</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Institute of Classical Studies, University of London</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><msName>Bernand 29</msName></msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc><support><p>Colossus of Memnon.</p>
+                                <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/241">Statue</objectType>
+                                <material ref="https://www.eagle-network.eu/voc/material/lod/51.html">Quartzite sandstone</material></support></supportDesc>
+                            <layoutDesc><layout>Incised into the stone on the left leg.</layout></layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote></handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when="0130" period="http://n2t.net/ark:/99152/p077pzfwxfr">130 C.E.</origDate>
+                            <origPlace ref="https://pleiades.stoa.org/places/188894567" xml:id="origplace">Mortuary Temple of Amenhotep III,
+                                <placeName ref="https://pleiades.stoa.org/places/786067">Thebes</placeName>,
+                                <placeName ref="https://pleiades.stoa.org/places/766">Egypt</placeName>.</origPlace>
+                        </origin>
+                        <provenance type="found" sameAs="#origplace">In situ.</provenance>
+                        <provenance type="observed" sameAs="#origplace">In situ.</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile><surface/></facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                <ab><lb n="1"/><w>ὅτε</w> <w>σὺν</w> <w>τῇ</w> <persName type="emperor"><name>Σεβαστῇ</name> <name>Σαβείνη
+                        <lb n="2" break="no"/>ι</name></persName> <w>ἐγενόμην</w> <w>παρὰ</w> <w>τῷ</w> <persName type="divine"><name>Μέμνονι</name></persName>.
+                </ab>
+                <lg>
+                    <l n="1"><lb n="3"/><!--Αὔως καὶ γεράρω, Μέμνον, πάϊ Τιθώνοιο,
+   Θηβάας θάσσων ἄντα Δίος πόλιος,
+ἢ Ἀμένωθ, βασίλευ Αἰγύπτιε, τὼς ἐνέποισιν
+   ἴρηες μύθων τῶν παλάων ἴδριες,
+χαῖρε, καὶ αὐδάσαις πρόφρων ἀσπάσ̣δ̣ε[ο κ]αὔτ[αν]
+   τὰν σέμναν ἄλοχον κοιράνω Ἀδριάνω.
+γλῶσσαν μέν τοι τμᾶξε [κ]αὶ ὤατα βάρβαρο̣ς̣ ἄνηρ,
+   Καμβύσαις ἄθεος· τῶ ῥα λύγρῳ θαν̣άτῳ
+δῶκέν τοι ποίναν τὤτωι ἅκ[ρῳ] ἄορι πλάγεις
+   τῷ νήλας Ἆπιν κάκτανε τὸν θέϊον.
+ἀλλ’ ἔγω οὐ δοκίμωμι σέθεν τόδ’ ὄ̣λ̣εσθ’ ἂ̣ν ἄγαλμα,
+   ψύχαν δ’ ἀθανάταν λοίπ̣ο̣ν̣ ἔσωσ̣α̣ νόῳ.
+εὐσέβεες γὰρ ἔμοι γένεται πάπποι τ’ ἐγένο̣ντο,
+   Βάλβιλλός τ’ ὀ σόφος κ’ Ἀντίοχος βασίλευς,
+Βάλβιλλος γενέταις μᾶτρος βασιλήϊδος ἄμμας̣,
+   τῶ πάτε̣ρος δὲ πάτηρ Ἀντίοχος βασίλευς·
+κήνων ἐκ γενέας κἄγω λόχον αἶμα τὸ κᾶλον,
+   Βαλβίλλας δ’ ἔμεθεν γρόπτα τάδ’ εὐσέβεος.-->
+</l>
+                </lg>
+            </div>
+            <div type="translation" xml:lang="en" resp="#gb">
+                <p>When I, with Augusta Sabina, came before Memnon. <!-- … --></p>
+            </div>
+            <div type="translation" xml:lang="fr" source="#aeb1960">
+                <p>« Quand, en compagnie de l'Auguste Sabine, j'étais auprès de Memnon : Toi qui es le fils de l'Aurore, ô Memnon, et du vénérable Tithon, et qui es assis en face de la ville thébaine de Zeus, ou bien toi Aménoth, roi égyptien, à ce que rapportent les prêtres instruits des récits anciens, reçois mon salut, et, en chantant, accueille favorablement, à son tour, l'épouse vénérable de l'Empereur Hadrien. Ta langue a été coupée, ainsi que tes oreilles, par un homme barbare, l'impie Cambyse. Certes, par sa mort lamentable, il en fut puni, frappé de la même pointe d'epée qui lui avait servi à tuer impitoyablement le divin Apis. Mais moi, je ne pense pas que ta statue puisse périr, et j'ai désormais sauvé et immortalisé ton âme par mon ésprit. Pieux, en effet, furent mes parents et mes aïeux, Balbillus le Sage, et le roi Antiochos, Balbillus, père de ma mère de sang royal, et le roi Antiochos, père de mon père. C'est de leur race que je tire mon noble sang, et ces vers sont de moi, Balbilla, la pieuse. »</p>
+            </div>
+            <div type="translation" xml:lang="it" source="#ac2011">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; 
+                        <author>Étienne Bernand</author>. 
+                        <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title>
+                        «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31;
+                        Paris <date>1960</date>. <citedRange>29</citedRange></bibl>
+                    <bibl xml:id="PHI"><title>PHI</title> <citedRange>227950</citedRange>
+                        <ref>http://epigraphy.packhum.org/text/227950</ref></bibl>
+                    <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. 
+                        <title level="m">Gli epigrammi di Giulia Balbilla. 
+                            Ricordi di una dama di corte e altri testi al femminile sul Colosso di Memnone.</title>
+                        Pensa Multimedia, <date>2011</date>. <citedRange>2</citedRange></bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

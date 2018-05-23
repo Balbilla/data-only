@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Julia Balbilla, Epigram 1 (28)</title>
+                <editor xml:id="gb">Gabriel Bodard</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Institute of Classical Studies, University of London</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><msName>Bernand 28</msName></msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc><support><p>Colossus of Memnon.</p>
+                                <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/241">Statue</objectType>
+                                <material ref="https://www.eagle-network.eu/voc/material/lod/51.html">Quartzite sandstone</material></support></supportDesc>
+                            <layoutDesc><layout>Incised into the stone on the left leg.</layout></layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote></handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when="0130" period="http://n2t.net/ark:/99152/p077pzfwxfr">130 C.E.</origDate>
+                            <origPlace ref="https://pleiades.stoa.org/places/188894567" xml:id="origplace">Mortuary Temple of Amenhotep III,
+                                <placeName ref="https://pleiades.stoa.org/places/786067">Thebes</placeName>,
+                                <placeName ref="https://pleiades.stoa.org/places/766">Egypt</placeName>.</origPlace>
+                        </origin>
+                        <provenance type="found" sameAs="#origplace">In situ.</provenance>
+                        <provenance type="observed" sameAs="#origplace">In situ.</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile><surface/></facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><persName type="emperor" ref="http://data.snapdrgn.net/person/7087"
+                        ><name nymRef="Ἰουλία">Ἰουλίας</name>
+                        <name nymRef="Βαλβίλλα">Βαλ<choice><sic>λ</sic><corr>β</corr></choice>ίλλης</name></persName>·
+                    <lb n="2"/><w lemma="">ὅτε</w> <w lemma="">ἤκουσε</w> <w lemma="">τοῦ</w>
+                    <persName type="divine"><name nymRef="Μέμνων">Μέμνο<supplied reason="omitted"
+                        >νο</supplied>ς</name></persName>
+                    <lb n="3"/><w lemma="ὁ">ὁ</w> <persName type="emperor" 
+                        ref="http://data.snapdrgn.net/person/6154"><name nymRef="Σεβαστός">Σεβαστὸς</name>
+                        <name nymRef="Ἁδριανός">Ἁδριανός</name></persName>.
+                </ab>
+                <lg>
+                    <l n="1"><lb n="4"/><persName type="divine"><name nymRef="Μέμνων">Μέμνονα</name></persName>
+                        <w lemma="">πυνθανόμαν</w> <placeName ref="https://pleiades.stoa.org/places/766">Αἰγύπτιον</placeName>, <w lemma="">ἀλίω</w>
+                        <w lemma="">αὔγαι</w></l>
+                    <l n="2"><lb n="5"/><w lemma="">αἰθόμενον</w>, <w lemma="">φώνην</w>
+                        <placeName ref="https://pleiades.stoa.org/places/786067"><w lemma="">Θηβαΐ<choice><sic>χ</sic><corr>κ</corr></choice>ω</w></placeName>
+                        <w lemma="">’πυ</w> <w lemma="">λίθω</w>.</l>
+                    <l n="3"><lb n="6"/><persName type="emperor"><name nymRef="Ἁδριανός">Ἀδρίανον</name></persName>
+                        <w lemma="">δ’</w> <w lemma="">ἐσίδων</w>, <w lemma="">τὸν</w> <w lemma="">παμβασίληα</w>, <w lemma="">πρὶν</w>
+                        <w lemma="">αὔγας</w></l>
+                    <l n="4"><lb n="7"/><w lemma="">ἀελίω</w> <w lemma="">χαίρην</w> <w lemma="">εἶπέ</w> <w lemma=""><corr>ϝ</corr>οι</w>
+                        <w lemma="">ὠς</w> <w lemma="">δύνατον</w>.</l>
+                    <l n="5"><lb n="8"/><w lemma="">Τίταν</w> <w lemma="">δ’</w> <w lemma="">ὄττ’</w> <w lemma="">ἐλάων</w>
+                        <w lemma="">λεύκοισι</w> <w lemma="">δι’</w> <w lemma="">αἴθερος</w> <w lemma="">ἴπποις</w></l>
+                    <l n="6"><lb n="9"/><w lemma=""><unclear>ἐν</unclear>ὶ</w> <w lemma="">σκίαι</w> <w lemma="">ὠράων</w> 
+                        <w lemma="">δεύτερον</w> <w lemma="">ἦχε</w> <w lemma="">μέτρον</w>,</l>
+                    <l n="7"><lb n="10"/><w lemma="">ὠς</w> <w lemma="">χάλκοιο</w> <w lemma="">τύπεντ<supplied reason="lost">ο</supplied>ς</w> <w lemma="">ἴη</w>
+                        <persName type="divine"><name nymRef="Μέμνων">Μέμνων</name></persName> <w lemma="">πάλιν</w>
+                        <w lemma="">αὔδαν</w></l>
+                    <l n="8"><lb n="11"/><w lemma="">ὀξύτονον</w>· <w lemma="">χαίρω<supplied reason="lost">ν</supplied></w>
+                        <w lemma=""><supplied reason="lost">κ</supplied>αὶ</w> <w lemma="">τρίτον</w>
+                        <w lemma="">ἆχον</w> <w lemma="">ἴη</w>.</l>
+                    <l n="9"><lb n="12"/><w lemma="">κοίρανος</w>
+                        <persName type="emperor"><name nymRef="Ἁδριανός">Ἀδρίανο<supplied reason="lost">ς</supplied></name></persName>
+                        <supplied reason="lost"><w lemma="">τότ’</w></supplied> <w lemma=""><supplied reason="lost">ἄ</supplied>λις</w> <w lemma="">δ’</w> <w lemma="">ἀσπάσσατο</w> <w lemma="">καὖτος</w></l>
+                    <l n="10"><lb n="13"/><persName type="divine"><name nymRef="Μέμνων">Μέμνονα</name></persName>,
+                        <w lemma="">κἀν</w> <w lemma=""><supplied reason="lost">στά</supplied>λαι</w> <w lemma="">κά<unclear>λλ</unclear>ι<supplied reason="lost">π</supplied>εν</w>
+                        <w lemma="">ὀψ<supplied reason="lost">ι</supplied>γόνοις</w></l>
+                    <l n="11"><lb n="14"/><w lemma="">γρόππατα</w> <w lemma="">σαμαίνο<supplied reason="lost">ν</supplied>τά</w> <w lemma="">τ’</w> <w lemma="">ὄσ’</w>
+                        <w lemma="">εὔϊδε</w> <w lemma="">κὤσσ’</w> <w lemma="">ἐσάκουσε</w>,</l>
+                    <l n="12"><lb n="15"/><w lemma="">δῆλον</w> <w lemma="">παῖσι</w> <w lemma="">δ’</w> <w lemma="">ἔγε<supplied reason="lost">ν</supplied>τ’</w>
+                        <w lemma="">ὤς</w> <w lemma=""><corr>ϝ</corr>ε</w> <w lemma="">φίλισι</w> <w lemma="">θέοι</w>.</l>
+                </lg>
+            </div>
+            <div type="translation" xml:lang="en" resp="#gb">
+                <p>From Julia Balbille : When Augustus Hadrian heard Memnon. I had learned that the Egyptian Memnon, when ignited by the rays of the sun, released a voice from the Theban stone. Spying Hadrian, the All-King, before the sun’s rays, he gave greeting as he was able to. But when Titan, rising into the Aether with his white horses, drove into shadows the second measure of hours, as if beating on bronze, Memnon again gave voice to a piercing cry; he gave greeting with yet a third cry. And Emperor Hadrian himself gave many greeting in turn to Memnon, and left behind on the stone for those yet to be born <supplied reason="subaudible">[these]</supplied> lines showing what he had seen and heard, and made clear to everyone that the gods love him.
+                </p>
+            </div>
+            <div type="translation" xml:lang="fr" source="#aeb1960">
+                <p>De Julia Balbilla, quand l’Auguste Hadrien entendit Memnon :</p>
+                <p>« Memnon l’Égyptien, avais-je entendu dire, échauffé par les rayons du soleil,
+                    faisait entendre une voix qui sortait de la pierre thébaine.
+                    Il aperçut Hadrien, souverain roi, avant que brille le soleil, et le salua comme il pouvait.
+                    Mais lorsque Titan, s’élançant dans les airs avec ses blancs chevaux,
+                    maintenait dans l’ombre la seconde division des heures, on eût dit qu’on frappait
+                    un instrument de cuivre, et Memnon émit de nouveau un cri aigu;
+                    comme salut, il emit même un son pour la troisième fois.
+                    Alors l’Empereur Hadrien prodigua les saluts, lui aussi, à Memnon, et,
+                    sur la pierre, il laissa pour la postérité des vers qui montrent tout ce qu’il avait
+                    vu et entendu. Il apparut clairement à tous que les dieux le chérissaient. » </p>
+            </div>
+            <div type="translation" xml:lang="it" source="#ac2011">
+                <p><lb/>Di Giulia Balbilla
+                    <lb/>quando la voce di Memnone
+                    <lb/>l'augusto Adriano udi.</p>
+                <p><lb n="1"/>Avevo sentito dire che Memnone l'egizio, dal raggio del sole
+                    <lb n="2"/>scaldato, faceva udire una voce dalla pietra tebana.
+                    <lb n="3"/>Appena vide Adriano sommo sovrano, prima del comparire
+                    <lb n="4"/>dei raggi del sole, gli disse 'salve' come poteva.
+                    <lb n="5"/>Ma quando il Titano, lanciandosi coi suoi bianchi cavalli
+                    <lb n="6"/>attraverso l'aere, teneva nell'ombra l'ora seconda,
+                    <lb n="7"/>come un bronzo colpito Memnone di nuovo gridò con voce
+                    <lb n="8"/>acuta; salutando ancora per la terza volta emise un suono.
+                    <lb n="9"/>Allora l'imperatore Adriano salutò a lungo anche lui
+                    <lb n="10"/>Memnone a su una stele lasciò per i posteri dei versi,
+                    <lb n="11"/>che mostrassero quante cose egli aveva visto a ascoltato.
+                    <lb n="12"/>Fu chiaro a tutti quanto gli dei lo amino.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; 
+                        <author>Étienne Bernand</author>. 
+                        <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title>
+                        «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31;
+                        Paris <date>1960</date>. <citedRange>28</citedRange></bibl>
+                    <bibl xml:id="PHI"><title>PHI</title> <citedRange>227949</citedRange>
+                        <ref>http://epigraphy.packhum.org/text/227949</ref></bibl>
+                    <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. 
+                        <title level="m">Gli epigrammi di Giulia Balbilla 
+                            (ricordi di una dama di corte) e altri testi al femminile sul Colosso di Memnone.</title>
+                        Pensa Multimedia, <date>2011</date>. <citedRange>1</citedRange></bibl>
+                    <bibl>PIR2 I 650</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
