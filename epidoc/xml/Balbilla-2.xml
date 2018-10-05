@@ -48,29 +48,29 @@
                         <lb n="2" break="no"/>ι</name></persName> <w>ἐγενόμην</w> <w>παρὰ</w> <w>τῷ</w> <persName type="divine"><name>Μέμνονι</name></persName>.
                 </ab>
                 <lg>
-                    <l n="1"><lb n="3"/><!--Αὔως καὶ γεράρω, Μέμνον, πάϊ Τιθώνοιο,
-   Θηβάας θάσσων ἄντα Δίος πόλιος,
-ἢ Ἀμένωθ, βασίλευ Αἰγύπτιε, τὼς ἐνέποισιν
-   ἴρηες μύθων τῶν παλάων ἴδριες,
-χαῖρε, καὶ αὐδάσαις πρόφρων ἀσπάσ̣δ̣ε[ο κ]αὔτ[αν]
-   τὰν σέμναν ἄλοχον κοιράνω Ἀδριάνω.
-γλῶσσαν μέν τοι τμᾶξε [κ]αὶ ὤατα βάρβαρο̣ς̣ ἄνηρ,
-   Καμβύσαις ἄθεος· τῶ ῥα λύγρῳ θαν̣άτῳ
-δῶκέν τοι ποίναν τὤτωι ἅκ[ρῳ] ἄορι πλάγεις
-   τῷ νήλας Ἆπιν κάκτανε τὸν θέϊον.
-ἀλλ’ ἔγω οὐ δοκίμωμι σέθεν τόδ’ ὄ̣λ̣εσθ’ ἂ̣ν ἄγαλμα,
-   ψύχαν δ’ ἀθανάταν λοίπ̣ο̣ν̣ ἔσωσ̣α̣ νόῳ.
-εὐσέβεες γὰρ ἔμοι γένεται πάπποι τ’ ἐγένο̣ντο,
-   Βάλβιλλός τ’ ὀ σόφος κ’ Ἀντίοχος βασίλευς,
-Βάλβιλλος γενέταις μᾶτρος βασιλήϊδος ἄμμας̣,
-   τῶ πάτε̣ρος δὲ πάτηρ Ἀντίοχος βασίλευς·
-κήνων ἐκ γενέας κἄγω λόχον αἶμα τὸ κᾶλον,
-   Βαλβίλλας δ’ ἔμεθεν γρόπτα τάδ’ εὐσέβεος.-->
-</l>
+                    <l n="1"><lb n="3"/>Αὔως καὶ γεράρω, Μέμνον, πάϊ Τιθώνοιο,</l>
+        <l n="2">Θηβάας θάσσων ἄντα Δίος πόλιος,</l>
+    <l n="3">ἢ Ἀμένωθ, βασίλευ Αἰγύπτιε, τὼς ἐνέποισιν</l>
+        <l n="4"> ἴρηες μύθων τῶν παλάων ἴδριες,</l>
+    <l n="5">χαῖρε, καὶ αὐδάσαις πρόφρων ἀσπά<unclear>σδ</unclear>ε<supplied reason="lost">ο</supplied> <supplied reason="lost">κ</supplied>αὔτ<supplied reason="lost">αν</supplied></l>
+        <l n="6">τὰν σέμναν ἄλοχον κοιράνω Ἀδριάνω.</l>
+<l n="7">γλῶσσαν μέν τοι τμᾶξε <supplied reason="lost">κ</supplied>αὶ ὤατα βάρβαρ<unclear>ος</unclear> ἄνηρ,</l>
+        <l n="8">Καμβύσαις ἄθεος· τῶ ῥα λύγρῳ θα<unclear>ν</unclear>άτῳ</l>
+<l n="9">δῶκέν τοι ποίναν τὤτωι ἅκ<supplied reason="lost">ρῳ</supplied> ἄορι πλάγεις</l>
+        <l n="10">τῷ νήλας Ἆπιν κάκτανε τὸν θέϊον.</l>
+<l n="11">ἀλλ’ ἔγω οὐ δοκίμωμι σέθεν τόδ’ <unclear>ὄλ</unclear>εσθ’ <unclear>ἂ</unclear>ν ἄγαλμα,</l>
+        <l n="12">ψύχαν δ’ ἀθανάταν λοί<unclear>πον</unclear> ἔσω<unclear>σα</unclear> νόῳ.</l>
+<l n="13">εὐσέβεες γὰρ ἔμοι γένεται πάπποι τ’ ἐγέν<unclear>ο</unclear>ντο,</l>
+        <l n="14">Βάλβιλλός τ’ ὀ σόφος κ’ Ἀντίοχος βασίλευς,</l>
+<l n="15">Βάλβιλλος γενέταις μᾶτρος βασιλήϊδος ἄμμα<unclear>ς</unclear>,</l>
+        <l n="16">τῶ πάτ<unclear>ε</unclear>ρος δὲ πάτηρ Ἀντίοχος βασίλευς·</l>
+<l n="17">κήνων ἐκ γενέας κἄγω λόχον αἶμα τὸ κᾶλον,</l>
+        <l n="18">Βαλβίλλας δ’ ἔμεθεν γρόπτα τάδ’ εὐσέβεος.</l>
                 </lg>
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
-                <p>When I, with Augusta Sabina, came before Memnon. <!-- … --></p>
+                <p>When I, with Augusta Sabina, came before Memnon.</p>
+                <p><!-- … --></p>
             </div>
             <div type="translation" xml:lang="fr" source="#aeb1960">
                 <p>« Quand, en compagnie de l'Auguste Sabine, j'étais auprès de Memnon : Toi qui es le fils de l'Aurore, ô Memnon, et du vénérable Tithon, et qui es assis en face de la ville thébaine de Zeus, ou bien toi Aménoth, roi égyptien, à ce que rapportent les prêtres instruits des récits anciens, reçois mon salut, et, en chantant, accueille favorablement, à son tour, l'épouse vénérable de l'Empereur Hadrien. Ta langue a été coupée, ainsi que tes oreilles, par un homme barbare, l'impie Cambyse. Certes, par sa mort lamentable, il en fut puni, frappé de la même pointe d'epée qui lui avait servi à tuer impitoyablement le divin Apis. Mais moi, je ne pense pas que ta statue puisse périr, et j'ai désormais sauvé et immortalisé ton âme par mon ésprit. Pieux, en effet, furent mes parents et mes aïeux, Balbillus le Sage, et le roi Antiochos, Balbillus, père de ma mère de sang royal, et le roi Antiochos, père de mon père. C'est de leur race que je tire mon noble sang, et ces vers sont de moi, Balbilla, la pieuse. »</p>
