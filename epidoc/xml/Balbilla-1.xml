@@ -47,8 +47,8 @@
                 <ab>
                     <lb n="1"/><persName type="emperor" ref="http://data.snapdrgn.net/person/7087"
                         ><name nymRef="Ἰουλία">Ἰουλίας</name>
-                        <name nymRef="Βαλβίλλα">Βαλ<choice><sic>λ</sic><corr>β</corr></choice>ίλλης</name></persName>·
-                    <lb n="2"/><w lemma="">ὅτε</w> <w lemma="">ἤκουσε</w> <w lemma="">τοῦ</w>
+                        <name nymRef="Βαλβίλλα">Βαλ<choice><sic>Λ</sic><corr>β</corr></choice>ίλλης</name></persName>·
+                    <lb n="2"/><w lemma="ὅτε">ὅτε</w> <w lemma="ἀκούω">ἤκουσε</w> <w lemma="ὁ">τοῦ</w>
                     <persName type="divine"><name nymRef="Μέμνων">Μέμνο<supplied reason="omitted"
                         >νο</supplied>ς</name></persName>
                     <lb n="3"/><w lemma="ὁ">ὁ</w> <persName type="emperor" 
@@ -57,10 +57,10 @@
                 </ab>
                 <lg>
                     <l n="1"><lb n="4"/><persName type="divine"><name nymRef="Μέμνων">Μέμνονα</name></persName>
-                        <w lemma="">πυνθανόμαν</w> <placeName ref="https://pleiades.stoa.org/places/766">Αἰγύπτιον</placeName>, <w lemma="">ἀλίω</w>
+                        <w lemma="πυνθάνομαι">πυνθανόμαν</w> <placeName ref="https://pleiades.stoa.org/places/766">Αἰγύπτιον</placeName>, <w lemma="ἥλιος">ἀλίω</w>
                         <w lemma="">αὔγαι</w></l>
                     <l n="2"><lb n="5"/><w lemma="">αἰθόμενον</w>, <w lemma="">φώνην</w>
-                        <placeName ref="https://pleiades.stoa.org/places/786067"><w lemma="">Θηβαΐ<choice><sic>χ</sic><corr>κ</corr></choice>ω</w></placeName>
+                        <placeName ref="https://pleiades.stoa.org/places/786067"><w lemma="">Θηβαΐ<choice><sic>Χ</sic><corr>κ</corr></choice>ω</w></placeName>
                         <w lemma="">’πυ</w> <w lemma="">λίθω</w>.</l>
                     <l n="3"><lb n="6"/><persName type="emperor"><name nymRef="Ἁδριανός">Ἀδρίανον</name></persName>
                         <w lemma="">δ’</w> <w lemma="">ἐσίδων</w>, <w lemma="">τὸν</w> <w lemma="">παμβασίληα</w>, <w lemma="">πρὶν</w>
@@ -85,8 +85,8 @@
                         <w lemma="">ὀψ<supplied reason="lost">ι</supplied>γόνοις</w></l>
                     <l n="11"><lb n="14"/><w lemma="">γρόππατα</w> <w lemma="">σαμαίνο<supplied reason="lost">ν</supplied>τά</w> <w lemma="">τ’</w> <w lemma="">ὄσ’</w>
                         <w lemma="">εὔϊδε</w> <w lemma="">κὤσσ’</w> <w lemma="">ἐσάκουσε</w>,</l>
-                    <l n="12"><lb n="15"/><w lemma="">δῆλον</w> <w lemma="">παῖσι</w> <w lemma="">δ’</w> <w lemma="">ἔγε<supplied reason="lost">ν</supplied>τ’</w>
-                        <w lemma="">ὤς</w> <w lemma=""><corr>ϝ</corr>ε</w> <w lemma="">φίλισι</w> <w lemma="">θέοι</w>.</l>
+                    <l n="12"><lb n="15"/><w lemma="">δῆλον</w> <w lemma="">παῖσι</w> <w lemma="δέ">δ’</w> <w lemma="">ἔγε<supplied reason="lost">ν</supplied>τ’</w>
+                        <w lemma="">ὤς</w> <w lemma=""><choice><corr>ϝ</corr><sic>Γ</sic></choice>ε</w> <w lemma="φιλέω">φίλισι</w> <w lemma="θεός">θέοι</w>.</l>
                 </lg>
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
@@ -125,17 +125,9 @@
             </div>
             <div type="bibliography">
                 <listBibl>
-                    <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; 
-                        <author>Étienne Bernand</author>. 
-                        <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title>
-                        «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31;
-                        Paris <date>1960</date>. <citedRange>28</citedRange></bibl>
-                    <bibl xml:id="PHI"><title>PHI</title> <citedRange>227949</citedRange>
-                        <ref>http://epigraphy.packhum.org/text/227949</ref></bibl>
-                    <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. 
-                        <title level="m">Gli epigrammi di Giulia Balbilla 
-                            (ricordi di una dama di corte) e altri testi al femminile sul Colosso di Memnone.</title>
-                        Pensa Multimedia, <date>2011</date>. <citedRange>1</citedRange></bibl>
+                    <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; <author>Étienne Bernand</author>. <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title> «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31; Paris <date>1960</date>. <citedRange>28</citedRange></bibl>
+                    <bibl xml:id="PHI"><title>PHI</title> <citedRange>227949</citedRange>´ <ref>http://epigraphy.packhum.org/text/227949</ref></bibl>
+                    <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. <title level="m">Gli epigrammi di Giulia Balbilla (ricordi di una dama di corte) e altri testi al femminile sul Colosso di Memnone.</title> Pensa Multimedia, <date>2011</date>. <citedRange>1</citedRange></bibl>
                     <bibl>PIR2 I 650</bibl>
                 </listBibl>
             </div>

@@ -80,17 +80,9 @@
             </div>
             <div type="bibliography">
                 <listBibl>
-                    <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; 
-                        <author>Étienne Bernand</author>. 
-                        <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title>
-                        «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31;
-                        Paris <date>1960</date>. <citedRange>29</citedRange></bibl>
-                    <bibl xml:id="PHI"><title>PHI</title> <citedRange>227950</citedRange>
-                        <ref>http://epigraphy.packhum.org/text/227950</ref></bibl>
-                    <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. 
-                        <title level="m">Gli epigrammi di Giulia Balbilla. 
-                            Ricordi di una dama di corte e altri testi al femminile sul Colosso di Memnone.</title>
-                        Pensa Multimedia, <date>2011</date>. <citedRange>2</citedRange></bibl>
+                    <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; <author>Étienne Bernand</author>. <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title> «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31; Paris <date>1960</date>. <citedRange>29</citedRange></bibl>
+                    <bibl xml:id="PHI"><title>PHI</title> <citedRange>227950</citedRange>; <ref>http://epigraphy.packhum.org/text/227950</ref></bibl>
+                    <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. <title level="m">Gli epigrammi di Giulia Balbilla. Ricordi di una dama di corte e altri testi al femminile sul Colosso di Memnone.</title> Pensa Multimedia, <date>2011</date>. <citedRange>2</citedRange></bibl>
                 </listBibl>
             </div>
         </body>

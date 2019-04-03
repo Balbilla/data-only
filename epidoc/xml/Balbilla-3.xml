@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Julia Balbilla, Epigram 3 (30)</title>
+                <editor xml:id="gb">Gabriel Bodard</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Institute of Classical Studies, University of London</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><msName>Bernand 30</msName></msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc><support><p>Colossus of Memnon.</p>
+                                <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/241">Statue</objectType>
+                                <material ref="https://www.eagle-network.eu/voc/material/lod/51.html">Quartzite sandstone</material></support></supportDesc>
+                            <layoutDesc><layout>Incised into the stone on the left leg.</layout></layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote></handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when="0130" period="http://n2t.net/ark:/99152/p077pzfwxfr">130 C.E.</origDate>
+                            <origPlace ref="https://pleiades.stoa.org/places/188894567" xml:id="origplace">Mortuary Temple of Amenhotep III,
+                                <placeName ref="https://pleiades.stoa.org/places/786067">Thebes</placeName>,
+                                <placeName ref="https://pleiades.stoa.org/places/766">Egypt</placeName>.</origPlace>
+                        </origin>
+                        <provenance type="found" sameAs="#origplace">In situ.</provenance>
+                        <provenance type="observed" sameAs="#origplace">In situ.</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile><surface/></facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>
+                </ab>
+                <lg>
+                    <l n="1">
+                        <lb/>
+                    </l>
+                </lg>
+            </div>
+            <div type="translation" xml:lang="en" resp="#gb">
+                <p><!-- … --></p>
+            </div>
+            <div type="translation" xml:lang="fr" source="#aeb1960">
+                <p><!-- … --></p>
+            </div>
+            <div type="translation" xml:lang="it" source="#ac2011">
+                <p><!-- … --></p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; <author>Étienne Bernand</author>. <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title> «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31; Paris <date>1960</date>. <citedRange>30</citedRange></bibl>
+                    <bibl xml:id="PHI"><title>PHI</title> <citedRange>227951</citedRange>; <ref>http://epigraphy.packhum.org/text/227951</ref></bibl>
+                    <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. <title level="m">Gli epigrammi di Giulia Balbilla. Ricordi di una dama di corte e altri testi al femminile sul Colosso di Memnone.</title> Pensa Multimedia, <date>2011</date>. <citedRange>2</citedRange></bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
