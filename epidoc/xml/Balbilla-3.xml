@@ -45,22 +45,38 @@
         <body>
             <div type="edition" xml:lang="grc" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
+                    <lb n="1"/>ὅτε τῇ πρώτῃ ἡμέρᾳ οὐκ ἀ
+       <lb n="2" break="no"/>κούσαμεν τοῦ Μέμνονος.
                 </ab>
-                <lg>
-                    <l n="1">
-                        <lb/>
-                    </l>
+                <lg met="elegaic">
+                    <l n="1" met="hexameter" real="+++++++||--+--++"><lb n="3"/>χθίσδον μέν Μέμνων σίγαις ἀπε<supplied reason="lost">δέξατ’</supplied> <supplied reason="lost">ἀκ</supplied>οίτα<supplied reason="lost" cert="low">ν,</supplied></l>
+                    <l n="2" met="pentameter" real="+++--+||+--+--+"><lb n="4"/>ὠς πάλιν ἀ κάλα τυῖδε Σάβιννα <unclear>μ</unclear>ό<supplied reason="lost">λοι.</supplied></l>
+                    <l n="3" met="hexameter" real="+++--+++||--+--++"><lb n="5"/>τ<unclear>έ</unclear>ρπει γάρ σ’ ἐράτα μόρφα βασιλήϊδος ἄ<unclear>μ</unclear>μας,</l>
+                    <l n="4" met="pentameter" real="+++++||+--+--+"><lb n="6"/>ἐλθοίσαι δ’ <supplied reason="lost">α</supplied><unclear>ὔ</unclear>ται θήϊον <unclear>ἄ</unclear>χον ἴη,</l>
+                    <l n="5" met="hexameter" real="+++--+--+||--+--++"><lb n="7"/>μὴ καί τοι βασίλευς κοτέ̣σῃ, τό νυ δᾶρον ἀτά<supplied reason="lost">ρβης</supplied></l>
+                    <l n="6" met="pentameter" real="+++--+||+--+--+"><lb n="8"/>τὰν σέμναν κατ<unclear>έχ</unclear>ες κουριδίαν ἄλοχον.</l>
+                    <l n="7" met="hexameter" real="+++++--+||--+--+-"><lb n="9"/>κὠ Μέμνων τρέσσαις μεγάλω μένος Ἀδρι<supplied reason="lost">άνοιο</supplied></l>
+                    <l n="8" met="pentameter" real="+--+++||+--+--+"><lb n="10"/>ἐξαπίνας αὔδασ’, ἀ δ’ ὀΐοισ’ ἐχάρη.</l>
                 </lg>
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
-                <p><!-- … --></p>
+                <p>When on the first day we did not hear Memnon. Yesterday Memnon received the spouse in silence, so that the fair Sabinna might come here again. </p>
             </div>
             <div type="translation" xml:lang="fr" source="#aeb1960">
-                <p><!-- … --></p>
+                <p>Puisque le premir jour nous n'avons pas entendu Memnon. Hier Memnon a gardé le silence pour recevoir l'époux, afin que la belle Sabine revienne ici. Car tu es charmé par l'aimable beauté de notre reine. Mais à son arrivée pousse un cri divin, de peur que le roi n'aille s'irriter contre toi : trop longtemps, dans ton audace, tu avais retenu son auguste et légitime épouse. Aussi Memnon, redoutant la puissance de grand Hadrien, se mit-il soudain à proférer un cri, qu'elle entendit, non sans joie.</p>
             </div>
             <div type="translation" xml:lang="it" source="#ac2011">
-                <p><!-- … --></p>
+                <p>Quando, nel primero giorno, non sentimmo Memnone.</p>
+                <p>
+                    <lb n="1"/>Ieri Memnone accolse in silenzio lo sposo,
+                    <lb n="2"/>perché di nuovo tornasse la bella Sabina qui.
+                    <lb n="3"/>Infatti il bell-aspetto della mia regina ti dà gioia;
+                    <lb n="4"/>ma a lei giunta lancia una divina armonia,
+                    <lb n="5"/>affinché il sovrano non si irriti contro di te; dunque a lungo
+                    <lb n="6"/>trattenesti, nella tue audacia, la veneranda e legittima sposa.
+                    <lb n="7"/>Così Memnone, temendo la potenza del grande Adriano
+                    <lb n="8"/>subito parlò, e quella udendolo ne gioì.
+                </p>
             </div>
             <div type="bibliography">
                 <listBibl>

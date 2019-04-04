@@ -44,23 +44,35 @@
     <text>
         <body>
             <div type="edition" xml:lang="grc" xml:space="preserve">
-                <ab>
-                    <lb n="1"/>
-                </ab>
                 <lg>
-                    <l n="1">
-                        <lb/>
-                    </l>
+                    <l n="1"><lb n="1"/>ἔκλυον αὐδήσαντος ἔγω ’πυ λίθω <persName type="ruler"><name>Βάλβιλλα</name></persName></l>
+                    <l><lb n="2"/>φώνα<corr>ς</corr> τᾶς θεΐας <persName type="divine"><name>Μέμνονος</name></persName> ἢ Φαμένωθ.</l>
+                    <l><lb n="3"/>ἦλθον ὔμοι δ’ ἐράται βασιλήϊδι τυῖδε <persName type="ruler"><name>Σαβίννᾳ</name></persName>,</l>
+                    <l><lb n="4"/>ὤρας δὲ πρώτας ἄλιος ἦχε δρόμο<corr>ι</corr>ς.</l>
+                    <l><lb n="5"/><date>κοιράνω<surplus>ι</surplus> <persName type="ruler"><name>Ἀδριάνω</name></persName> πέμπτῳ δεκότῳ δ’ ἐ
+                    <lb n="6" break="no"/>νιαύτῳ</date>,</l>
+                    <l><corr>φῶτ</corr>α δ’ ἔχεσκε<corr>ν</corr> <rs type="month">Ἄθυρ</rs> εἴκοσι
+                    <lb n="7"/>καὶ πέσυρα.</l>
                 </lg>
+                <ab>εἰκόστῳ πέμπτῳ δ’ ἄματι μῆνος <rs type="month">Ἄθυρ</rs>.</ab>
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
                 <p><!-- … --></p>
+                <p>The 25th day of the month of Hathur.</p>
             </div>
             <div type="translation" xml:lang="fr" source="#aeb1960">
-                <p><!-- … --></p>
+                <p>J'ai entendu, quand la pierre se mit à chanter, moi, Balbilla, la voix divine de Memnon ou Phaménoth. J'avais accompagné ici notre aimable reine Sabine; le soleil tenait le cours de la première heure, la quinzième année de l'Empereur Hadrien, Hathyr était à son vingt-quatrième jour. Le vingt-cinquième jour du mois de Hathyr.</p>
             </div>
             <div type="translation" xml:lang="it" source="#ac2011">
-                <p><!-- … --></p>
+                <p>
+                    <lb n="1"/>Io, Balbilla ha sentito, dalla pietra parlante,
+                    <lb n="2"/>la voce divina di Memnone o Phamenoth.
+                    <lb n="3"/>Ero giunta qui con l'amabile regina Sabina:
+                    <lb n="4"/>il sole teneva il corso della prima ora.
+                    <lb n="5"/>Nel quindicesimo anno (del regno) dell'imperatore Adriano
+                    <lb n="6"/>Athur era nel ventiquattresimo giorno.
+                    <lb n="7"/>Nel venticinquesimo giorno del mese di Athur.
+                </p>
             </div>
             <div type="bibliography">
                 <listBibl>
