@@ -19,8 +19,8 @@ This project will involve a digital edition and analysis of the extant works of 
 * [Trismegistos People:85919](https://www.trismegistos.org/person/85919)
 * PIR² I 650
 
-
 ### Bibliography of editions and translations
 
-* tba
-* …
+* A & E Bernand, _Les inscriptions grecques et latines du Colosse de Memnon_, 1960.
+* Amalia Cirio, _Gli epigrammi di Giulia Balbilla_, 2011.
+* Patricia A. Rosenmeyer, _The Language of Ruins: Greek and Latin Inscriptions on the Memnon Colossus_, (2018).
