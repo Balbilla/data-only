@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -48,12 +48,12 @@
                         <lb n="2" break="no"/>ι</name></persName> <w>ἐγενόμην</w> <w>παρὰ</w> <w>τῷ</w> <persName type="divine"><name>Μέμνονι</name></persName>.
                 </ab>
                 <lg>
-                    <l n="1"><lb n="3"/>Αὔως καὶ γεράρω, Μέμνον, πάϊ Τιθώνοιο,</l>
-        <l n="2">Θηβάας θάσσων ἄντα Δίος πόλιος,</l>
-    <l n="3">ἢ Ἀμένωθ, βασίλευ Αἰγύπτιε, τὼς ἐνέποισιν</l>
+                    <l n="1"><lb n="3"/>Αὔως καὶ γεράρω, <name>Μέμνον</name>, πάϊ <name>Τιθώνοιο</name>,</l>
+        <l n="2"><placeName>Θηβάας</placeName> θάσσων ἄντα <name>Δίος</name> πόλιος,</l>
+    <l n="3">ἢ <name>Ἀμένωθ</name>, βασίλευ Αἰγύπτιε, τὼς ἐνέποισιν</l>
         <l n="4"> ἴρηες μύθων τῶν παλάων ἴδριες,</l>
     <l n="5">χαῖρε, καὶ αὐδάσαις πρόφρων ἀσπά<unclear>σδ</unclear>ε<supplied reason="lost">ο</supplied> <supplied reason="lost">κ</supplied>αὔτ<supplied reason="lost">αν</supplied></l>
-        <l n="6">τὰν σέμναν ἄλοχον κοιράνω Ἀδριάνω.</l>
+        <l n="6">τὰν σέμναν ἄλοχον κοιράνω <name>Ἀδριάνω</name>.</l>
 <l n="7">γλῶσσαν μέν τοι τμᾶξε <supplied reason="lost">κ</supplied>αὶ ὤατα βάρβαρ<unclear>ος</unclear> ἄνηρ,</l>
         <l n="8">Καμβύσαις ἄθεος· τῶ ῥα λύγρῳ θα<unclear>ν</unclear>άτῳ</l>
 <l n="9">δῶκέν τοι ποίναν τὤτωι ἅκ<supplied reason="lost">ρῳ</supplied> ἄορι πλάγεις</l>

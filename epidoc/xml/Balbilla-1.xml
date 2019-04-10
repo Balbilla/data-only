@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -52,20 +52,20 @@
                     <persName type="divine"><name nymRef="Μέμνων">Μέμνο<supplied reason="omitted"
                         >νο</supplied>ς</name></persName>
                     <lb n="3"/><w lemma="ὁ">ὁ</w> <persName type="emperor" 
-                        ref="http://data.snapdrgn.net/person/6154"><name nymRef="Σεβαστός">Σεβαστὸς</name>
+                        ref="http://data.snapdrgn.net/person/6154"><name nymRef="Σεβαστός"><w lemma="σεβαστός">Σεβαστὸς</w></name>
                         <name nymRef="Ἁδριανός">Ἁδριανός</name></persName>.
                 </ab>
                 <lg>
                     <l n="1"><lb n="4"/><persName type="divine"><name nymRef="Μέμνων">Μέμνονα</name></persName>
-                        <w lemma="πυνθάνομαι">πυνθανόμαν</w> <placeName ref="https://pleiades.stoa.org/places/766">Αἰγύπτιον</placeName>, <w lemma="ἥλιος">ἀλίω</w>
+                        <w lemma="πυνθάνομαι">πυνθανόμαν</w> <placeName ref="https://pleiades.stoa.org/places/766"><w lemma="Αἰγύπτιος">Αἰγύπτιον</w></placeName>, <w lemma="ἥλιος">ἀλίω</w>
                         <w lemma="">αὔγαι</w></l>
                     <l n="2"><lb n="5"/><w lemma="">αἰθόμενον</w>, <w lemma="">φώνην</w>
                         <placeName ref="https://pleiades.stoa.org/places/786067"><w lemma="">Θηβαΐ<choice><sic>Χ</sic><corr>κ</corr></choice>ω</w></placeName>
                         <w lemma="">’πυ</w> <w lemma="">λίθω</w>.</l>
                     <l n="3"><lb n="6"/><persName type="emperor"><name nymRef="Ἁδριανός">Ἀδρίανον</name></persName>
-                        <w lemma="">δ’</w> <w lemma="">ἐσίδων</w>, <w lemma="">τὸν</w> <w lemma="">παμβασίληα</w>, <w lemma="">πρὶν</w>
+                        <w lemma="">δ’</w> <w lemma="">ἐσίδων</w>, <w lemma="ὁ">τὸν</w> <w lemma="παμβασιλεύς">παμβασίληα</w>, <w lemma="">πρὶν</w>
                         <w lemma="">αὔγας</w></l>
-                    <l n="4"><lb n="7"/><w lemma="">ἀελίω</w> <w lemma="">χαίρην</w> <w lemma="">εἶπέ</w> <w lemma=""><corr>ϝ</corr>οι</w>
+                    <l n="4"><lb n="7"/><w lemma="">ἀελίω</w> <w lemma="">χαίρην</w> <w lemma="">εἶπέ</w> <w lemma=""><choice><corr>ϝ</corr><sic>Γ</sic></choice>οι</w>
                         <w lemma="">ὠς</w> <w lemma="">δύνατον</w>.</l>
                     <l n="5"><lb n="8"/><w lemma="">Τίταν</w> <w lemma="">δ’</w> <w lemma="">ὄττ’</w> <w lemma="">ἐλάων</w>
                         <w lemma="">λεύκοισι</w> <w lemma="">δι’</w> <w lemma="">αἴθερος</w> <w lemma="">ἴπποις</w></l>
@@ -90,8 +90,7 @@
                 </lg>
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
-                <p>From Julia Balbille : When Augustus Hadrian heard Memnon. I had learned that the Egyptian Memnon, when ignited by the rays of the sun, released a voice from the Theban stone. Spying Hadrian, the All-King, before the sun’s rays, he gave greeting as he was able to. But when Titan, rising into the Aether with his white horses, drove into shadows the second measure of hours, as if beating on bronze, Memnon again gave voice to a piercing cry; he gave greeting with yet a third cry. And Emperor Hadrian himself gave many greeting in turn to Memnon, and left behind on the stone for those yet to be born <supplied reason="subaudible">[these]</supplied> lines showing what he had seen and heard, and made clear to everyone that the gods love him.
-                </p>
+                <p>From Julia Balbille : When Augustus Hadrian heard Memnon. I had learned that the Egyptian Memnon, when ignited by the rays of the sun, released a voice from the Theban stone. Spying Hadrian, the All-King, before the sun’s rays, he gave greeting as he was able to. But when Titan, rising into the Aether with his white horses, drove into shadows the second measure of hours, as if beating on bronze, Memnon again gave voice to a piercing cry; he gave greeting with yet a third cry. And Emperor Hadrian himself gave many greeting in turn to Memnon, and left behind on the stone for those yet to be born <supplied reason="subaudible">[these]</supplied> lines showing what he had seen and heard, and made clear to everyone that the gods love him.</p>
             </div>
             <div type="translation" xml:lang="fr" source="#aeb1960">
                 <p>De Julia Balbilla, quand l’Auguste Hadrien entendit Memnon :</p>
