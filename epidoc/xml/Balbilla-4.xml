@@ -44,17 +44,24 @@
     <text>
         <body>
             <div type="edition" xml:lang="grc" xml:space="preserve">
-                <lg>
-                    <l n="1"><lb n="1"/><w>ἔκλυον</w> <w>αὐδήσαντος</w> <w>ἔγω</w> <w>’πυ</w> <w>λίθω</w> <persName type="ruler"><name>Βάλβιλλα</name></persName></l>
-                    <l><lb n="2"/><w>φώνα<corr>ς</corr></w> <w>τᾶς</w> <w>θεΐας</w> <persName type="divine"><name>Μέμνονος</name></persName> <w>ἢ</w> <persName type="divine"><name>Φαμένωθ</name></persName>.</l>
-                    <l><lb n="3"/><w>ἦλθον</w> <w>ὔμοι</w> <w>δ’</w> <w>ἐράται</w> <w>βασιλήϊδι</w> <w>τυῖδε</w> <persName type="ruler"><name>Σαβίννᾳ</name></persName>,</l>
-                    <l><lb n="4"/><w>ὤρας</w> <w>δὲ</w> <w>πρώτας</w> <w>ἄλιος</w> <w>ἦχε</w> <w>δρόμο<supplied reason="omitted">ι</supplied>ς</w>.</l>
-                    <l><lb n="5"/><date><w>κοιράνω<surplus>ι</surplus></w> <persName type="ruler"><name>Ἀδριάνω</name></persName> <w>πέμπτῳ</w> <w>δεκότῳ</w> <w>δ’</w> <w>ἐ
-                    <lb n="6" break="no"/>νιαύτῳ</w></date>,</l>
-                    <l><w><supplied reason="omitted">φῶτ</supplied>α</w> <w>δ’</w> <w>ἔχεσκε<choice><corr>ν</corr><sic>Δ</sic></choice></w> <rs type="month"><w>Ἄθυρ</w></rs> <w>εἴκοσι</w>
-                    <lb n="7"/><w>καὶ</w> <w>πέσυρα</w>.</l>
+                <lg met="elegaic">
+                    <l n="1" met="hexameter" real="+--+++-|-+--+++-">
+                        <lb n="1"/><w>ἔκλυον</w> <w>αὐδήσαντος</w> <w>ἔγω</w> <w>’πυ</w> <w>λίθω</w> <persName type="ruler"><name>Βάλβιλλα</name></persName></l>
+                    <l n="2" met="pentameter" real="+++--+|+--+--+">
+                        <lb n="2"/><w>φώνα<corr>ς</corr></w> <w lemma="">τᾶς</w> <w>θεΐας</w> <persName type="divine"><name>Μέμνονος</name></persName> <w>ἢ</w> <persName type="divine"><name>Φαμένωθ</name></persName>.</l>
+                    <l n="3" met="hexameter" real="+--+--+|--+--+--++">
+                        <lb n="3"/><w lemma="ἔρχομαι">ἦλθον</w> <w>ὔμοι</w> <w lemma="δέ">δ’</w> <w>ἐράται</w> <w>βασιλήϊδι</w> <w>τυῖδε</w> <persName type="ruler"><name>Σαβίννᾳ</name></persName>,</l>
+                    <l n="4" met="pentameter" real="+++++|+--+--+">
+                        <lb n="4"/><w>ὤρας</w> <w lemma="δέ">δὲ</w> <w>πρώτας</w> <w lemma="ἥλιος">ἄλιος</w> <w>ἦχε</w> <w>δρόμο<supplied reason="omitted">ι</supplied>ς</w>.</l>
+                    <l n="5" met="hexameter" real="+--+--+|++--+--++">
+                        <lb n="5"/><date><w>κοιράνω<surplus>ι</surplus></w> <persName type="ruler"><name>Ἀδριάνω</name></persName> <w>πέμπτῳ</w> <w>δεκότῳ</w> <w>δ’</w>
+                            <w>ἐ<lb n="6" break="no"/>νιαύτῳ</w></date>,</l>
+                    <l n="6" met="pentameter" real="+--+--+|+--+--+">
+                        <w><supplied reason="omitted">φῶτ</supplied>α</w> <w>δ’</w> <w>ἔχεσκε<choice><corr>ν</corr><sic>Δ</sic></choice></w> <rs type="month"><w lemma="Ἅθυρ">Ἄθυρ</w></rs> <w lemma="εἴκοσι">εἴκοσι</w>
+                    <lb n="7"/><w lemma="καί">καὶ</w> <w>πέσυρα</w>.</l>
                 </lg>
-                <ab><w>εἰκόστῳ</w> <w>πέμπτῳ</w> <w>δ’</w> <w>ἄματι</w> <w>μῆνος</w> <rs type="month"><w>Ἄθυρ</w></rs>.</ab>
+                <ab><w>εἰκόστῳ</w> <w>πέμπτῳ</w>
+                    <lb n="8"/><w lemma="δέ">δ’</w> <w>ἄματι</w> <w lemma="μῆς">μῆνος</w> <rs type="month"><w lemma="Ἅθυρ">Ἄθυρ</w></rs>.</ab>
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
                 <p><!-- … --></p>

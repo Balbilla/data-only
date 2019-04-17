@@ -49,14 +49,14 @@
        <lb n="2" break="no"/>κούσαμεν</w> <w>τοῦ</w> <persName type="divine"><name>Μέμνονος</name></persName>.
                 </ab>
                 <lg met="elegaic">
-                    <l n="1" met="hexameter" real="+++++++||--+--++"><lb n="3"/><w>χθίσδον</w> <w lemma="μέν">μὲν</w> <persName type="divine"><name>Μέμνων</name></persName> <w>σίγαις</w> <w>ἀπε<supplied reason="lost">δέξατ’</supplied></w> <w><supplied reason="lost">ἀκ</supplied>οίτα<supplied reason="lost" cert="low">ν</supplied></w><supplied reason="lost">,</supplied></l>
-                    <l n="2" met="pentameter" real="+++--+||+--+--+"><lb n="4"/><w>ὠς</w> <w>πάλιν</w> <w>ἀ</w> <w>κάλα</w> <w>τυῖδε</w> <persName type="ruler"><name>Σάβιννα</name></persName> <w><unclear>μ</unclear>ό<supplied reason="lost">λοι</supplied></w><supplied reason="lost">.</supplied></l>
-                    <l n="3" met="hexameter" real="+++--+++||--+--++"><lb n="5"/><w>τ<unclear>έ</unclear>ρπει</w> <w>γάρ</w> <w>σ’</w> <w>ἐράτα</w> <w>μόρφα</w> <w>βασιλήϊδος</w> <w>ἄ<unclear>μ</unclear>μας</w>,</l>
-                    <l n="4" met="pentameter" real="+++++||+--+--+"><lb n="6"/><w>ἐλθοίσαι</w> <w>δ’</w> <w><supplied reason="lost">α</supplied><unclear>ὔ</unclear>ται</w> <w>θήϊον</w> <w><unclear>ἄ</unclear>χον</w> <w>ἴη</w>,</l>
-                    <l n="5" met="hexameter" real="+++--+--+||--+--++"><lb n="7"/><w>μὴ</w> <w>καί</w> <w>τοι</w> <w>βασίλευς</w> <w>κοτ<unclear>έ</unclear>σῃ</w>, <w>τό</w> <w>νυ</w> <w>δᾶρον</w> <w>ἀτά<supplied reason="lost">ρβης</supplied></w></l>
-                    <l n="6" met="pentameter" real="+++--+||+--+--+"><lb n="8"/><w>τὰν</w> <w>σέμναν</w> <w>κατ<unclear>έχ</unclear>ες</w> <w>κουριδίαν</w> <w>ἄλοχον</w>.</l>
-                    <l n="7" met="hexameter" real="+++++--+||--+--+-"><lb n="9"/><w>κὠ</w> <persName type="divine"><name>Μέμνων</name></persName> <w>τρέσσαις</w> <w>μεγάλω</w> <w>μένος</w> <persName type="ruler"><name>Ἀδρι<supplied reason="lost">άνοιο</supplied></name></persName></l>
-                    <l n="8" met="pentameter" real="+--+++||+--+--+"><lb n="10"/><w>ἐξαπίνας</w> <w>αὔδασ’</w>, <w>ἀ</w> <w>δ’</w> <w>ὀΐοισ’</w> <w>ἐχάρη</w>.</l>
+                    <l n="1" met="hexameter" real="+++++++|--+--++"><lb n="3"/><w>χθίσδον</w> <w lemma="μέν">μὲν</w> <persName type="divine"><name>Μέμνων</name></persName> <w>σίγαις</w> <w>ἀπε<supplied reason="lost">δέξατ’</supplied></w> <w><supplied reason="lost">ἀκ</supplied>οίτα<supplied reason="lost" cert="low">ν</supplied></w><supplied reason="lost">,</supplied></l>
+                    <l n="2" met="pentameter" real="+++--+|+--+--+"><lb n="4"/><w>ὠς</w> <w>πάλιν</w> <w>ἀ</w> <w>κάλα</w> <w>τυῖδε</w> <persName type="ruler"><name>Σάβιννα</name></persName> <w><unclear>μ</unclear>ό<supplied reason="lost">λοι</supplied></w><supplied reason="lost">.</supplied></l>
+                    <l n="3" met="hexameter" real="+++--+++|--+--++"><lb n="5"/><w>τ<unclear>έ</unclear>ρπει</w> <w>γάρ</w> <w>σ’</w> <w>ἐράτα</w> <w>μόρφα</w> <w>βασιλήϊδος</w> <w>ἄ<unclear>μ</unclear>μας</w>,</l>
+                    <l n="4" met="pentameter" real="+++++|+--+--+"><lb n="6"/><w>ἐλθοίσαι</w> <w>δ’</w> <w><supplied reason="lost">α</supplied><unclear>ὔ</unclear>ται</w> <w>θήϊον</w> <w><unclear>ἄ</unclear>χον</w> <w>ἴη</w>,</l>
+                    <l n="5" met="hexameter" real="+++--+--+|--+--++"><lb n="7"/><w>μὴ</w> <w>καί</w> <w>τοι</w> <w>βασίλευς</w> <w>κοτ<unclear>έ</unclear>σῃ</w>, <w>τό</w> <w>νυ</w> <w>δᾶρον</w> <w>ἀτά<supplied reason="lost">ρβης</supplied></w></l>
+                    <l n="6" met="pentameter" real="+++--+|+--+--+"><lb n="8"/><w>τὰν</w> <w>σέμναν</w> <w>κατ<unclear>έχ</unclear>ες</w> <w>κουριδίαν</w> <w>ἄλοχον</w>.</l>
+                    <l n="7" met="hexameter" real="+++++--+|--+--+-"><lb n="9"/><w>κὠ</w> <persName type="divine"><name>Μέμνων</name></persName> <w>τρέσσαις</w> <w>μεγάλω</w> <w>μένος</w> <persName type="ruler"><name>Ἀδρι<supplied reason="lost">άνοιο</supplied></name></persName></l>
+                    <l n="8" met="pentameter" real="+--+++|+--+--+"><lb n="10"/><w>ἐξαπίνας</w> <w>αὔδασ’</w>, <w>ἀ</w> <w>δ’</w> <w>ὀΐοισ’</w> <w>ἐχάρη</w>.</l>
                 </lg>
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
