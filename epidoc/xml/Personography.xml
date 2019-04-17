@@ -82,11 +82,11 @@
             <person xml:id="eos">
                <persName xml:lang="en">Eos</persName>
                <persName xml:lang="en">Dawn</persName>
-               <persName xml:lang="grc">Eos</persName>
+               <persName xml:lang="grc">Ἔως</persName>
                <listBibl>
                   <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q178417</idno></bibl>
                   <listRelation>
-                     <relation active="#eos" ref="snap:motherOf" passive="#memnon">Mother of Memnon</relation>
+                     <relation active="#eos" ref="snap:motherOf" passive="#memnon"><desc>Mother of Memnon</desc></relation>
                   </listRelation>
                </listBibl>
             </person>

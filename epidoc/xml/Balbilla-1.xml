@@ -49,7 +49,7 @@
                         ><name nymRef="Ἰουλία">Ἰουλίας</name>
                         <name nymRef="Βαλβίλλα">Βαλ<choice><sic>Λ</sic><corr>β</corr></choice>ίλλης</name></persName>·
                     <lb n="2"/><w lemma="ὅτε">ὅτε</w> <w lemma="ἀκούω">ἤκουσε</w> <w lemma="ὁ">τοῦ</w>
-                    <persName type="divine"><name nymRef="Μέμνων">Μέμνο<supplied reason="omitted"
+                    <persName type="divine" ref="https://www.wikidata.org/wiki/Q506781"><name nymRef="Μέμνων">Μέμνο<supplied reason="omitted"
                         >νο</supplied>ς</name></persName>
                     <lb n="3"/><w lemma="ὁ">ὁ</w> <persName type="ruler" 
                         ref="http://data.snapdrgn.net/person/6154"><name nymRef="Σεβαστός"><w lemma="σεβαστός">Σεβαστὸς</w></name>
