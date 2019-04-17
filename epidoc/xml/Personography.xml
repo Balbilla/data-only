@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Persons mentioned in the poems of Julia Balbilla</title>
+            <editor xml:id="gb">Gabriel Bodard</editor>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Institute of Classical Studies, University of London</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listPerson>
+            <head>Historical people, rulers and royalty</head>
+            <person xml:id="balbilla">
+               <persName xml:lang="en">Julia Balbilla</persName>
+               <persName xml:lang="grc">Ἰουλία Βαλβίλλη</persName>
+               <persName xml:lang="it">Giulia Balbilla</persName>
+               <birth when="0072">72 CE</birth>
+               <floruit when="0130">130 CE (texts)</floruit>
+               <listBibl>
+                  <bibl><idno type="SNAP">http://data.snapdrgn.net/person/7087</idno></bibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q441786</idno></bibl>
+                  <bibl><idno type="TM">https://www.trismegistos.org/person/85919</idno></bibl>
+                  <bibl><idno type="VIAF">https://viaf.org/viaf/34843877/</idno></bibl>
+                  <bibl><idno type="PIR">PIR² I 650</idno></bibl>
+                  <listRelation>
+                     <relation ref="snap:daughterOf"><desc>Daughter of Antiochus Epiphanes</desc></relation>
+                     <relation ref="snap:daughterOf"><desc>Daughter of Claudia Capitolina</desc></relation>
+                  </listRelation>
+               </listBibl>
+            </person>
+            
+            <person xml:id="hadrian">
+               <persName></persName>
+            </person>
+            
+            <person xml:id="sabina">
+               <persName></persName>
+            </person>
+            
+            <person xml:id="antiochusep">
+               <persName></persName>
+            </person>
+            
+            <person xml:id="antiochusiv">
+               <persName></persName>
+            </person>
+            
+            <person xml:id="balbillus">
+               <persName></persName>
+            </person>
+            
+            <person xml:id="trasillus">
+               <persName></persName>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <head>Divinities and mythological figures</head>
+            
+            <person xml:id="memnon">
+               <persName xml:lang="en">Memnon</persName>
+               <persName xml:lang="grc">Μέμνων</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q506781</idno></bibl>
+                  <listRelation>
+                     <relation active="#memnon" ref="snap:sonOf" passive="#eos"><desc>Son of Eos</desc></relation>
+                  </listRelation>
+               </listBibl>
+            </person>
+            
+            <person xml:id="eos">
+               <persName xml:lang="en">Eos</persName>
+               <persName xml:lang="en">Dawn</persName>
+               <persName xml:lang="grc">Eos</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q178417</idno></bibl>
+                  <listRelation>
+                     <relation active="#eos" ref="snap:motherOf" passive="#memnon">Mother of Memnon</relation>
+                  </listRelation>
+               </listBibl>
+            </person>
+            
+            <person xml:id="tithonos">
+               <persName></persName>
+            </person>
+         </listPerson>
+      </body>
+  </text>
+</TEI>
