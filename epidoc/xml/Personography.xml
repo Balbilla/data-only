@@ -41,7 +41,10 @@
             </person>
             
             <person xml:id="hadrian">
-               <persName></persName>
+               <persName xml:lang="en">Hadrian</persName>
+               <persName xml:lang="grc">Ἁδριανός</persName>
+               <occupation>Σεβαστός</occupation>
+               <occupation>Παμβασιλεύς</occupation>
             </person>
             
             <person xml:id="sabina">

@@ -63,17 +63,17 @@
                     <l n="2" met="pentameter" real="+--+++|+--+--+">
                         <lb n="5"/><w lemma="">αἰθόμενον</w>, <w lemma="">φώνην</w>
                         <placeName ref="https://pleiades.stoa.org/places/786067"><w lemma="">Θηβαΐ<choice><sic>Χ</sic><corr>κ</corr></choice>ω</w></placeName>
-                        <w lemma="">’πυ</w> <w lemma="">λίθω</w>.</l>
+                        <w lemma="ἀπό">’πυ</w> <w lemma="λίθος">λίθω</w>.</l>
                     <l n="3" met="hexameter" real="+--+--+|++--+--++">
                         <lb n="6"/><persName type="ruler"><name nymRef="Ἁδριανός">Ἀδρίανον</name></persName>
-                        <w lemma="">δ’</w> <w lemma="">ἐσίδων</w>, <w lemma="ὁ">τὸν</w> <w lemma="παμβασιλεύς">παμβασίληα</w>, <w lemma="">πρὶν</w>
+                        <w lemma="δέ">δ’</w> <w lemma="εἰσοράω">ἐσίδων</w>, <w lemma="ὁ">τὸν</w> <w lemma="παμβασιλεύς">παμβασίληα</w>, <w lemma="πρίν">πρὶν</w>
                         <w lemma="">αὔγας</w></l>
                     <l n="4" met="pentameter" real="+--+++|+--+--+">
-                        <lb n="7"/><w lemma="">ἀελίω</w> <w lemma="">χαίρην</w> <w lemma="">εἶπέ</w> <w lemma=""><choice><corr>ϝ</corr><sic>Γ</sic></choice>οι</w>
-                        <w lemma="">ὠς</w> <w lemma="">δύνατον</w>.</l>
+                        <lb n="7"/><w lemma="ἥλιος">ἀελίω</w> <w lemma="">χαίρην</w> <w lemma="">εἶπέ</w> <w lemma="ὅς"><choice><corr>ϝ</corr><sic>Γ</sic></choice>οι</w>
+                        <w lemma="ὡς">ὠς</w> <w lemma="">δύνατον</w>.</l>
                     <l n="5" met="hexameter" real="+++--+|++--+--++">
-                        <lb n="8"/><w lemma="">Τίταν</w> <w lemma="">δ’</w> <w lemma="">ὄττ’</w> <w lemma="">ἐλάων</w>
-                        <w lemma="">λεύκοισι</w> <w lemma="">δι’</w> <w lemma="">αἴθερος</w> <w lemma="">ἴπποις</w></l>
+                        <lb n="8"/><w lemma="">Τίταν</w> <w lemma="δέ">δ’</w> <w lemma="">ὄττ’</w> <w lemma="">ἐλάων</w>
+                        <w lemma="λευκός">λεύκοισι</w> <w lemma="διά">δι’</w> <w lemma="">αἴθερος</w> <w lemma="ἵππος">ἴπποις</w></l>
                     <l n="6" met="pentameter" real="+--+++|+--+--+">
                         <lb n="9"/><w lemma=""><unclear>ἐν</unclear>ὶ</w> <w lemma="">σκίαι</w> <w lemma="">ὠράων</w> 
                         <w lemma="">δεύτερον</w> <w lemma="">ἦχε</w> <w lemma="">μέτρον</w>,</l>
@@ -83,22 +83,22 @@
                         <w lemma="">αὔδαν</w></l>
                     <l n="8" met="pentameter" real="+--+++|+--+--+">
                         <lb n="11"/><w lemma="">ὀξύτονον</w>· <w lemma="">χαίρω<supplied reason="lost">ν</supplied></w>
-                        <w lemma=""><supplied reason="lost">κ</supplied>αὶ</w> <w lemma="">τρίτον</w>
+                        <w lemma="καί"><supplied reason="lost">κ</supplied>αὶ</w> <w lemma="">τρίτον</w>
                         <w lemma="">ἆχον</w> <w lemma="">ἴη</w>.</l>
                     <l n="9" met="hexameter" real="+--+--+|--+++--++">
                         <lb n="12"/><w lemma="">κοίρανος</w>
                         <persName type="ruler"><name nymRef="Ἁδριανός">Ἀδρίανο<supplied reason="lost">ς</supplied></name></persName>
-                        <supplied reason="lost"><w lemma="">τότ’</w></supplied> <w lemma=""><supplied reason="lost">ἄ</supplied>λις</w> <w lemma="">δ’</w> <w lemma="">ἀσπάσσατο</w> <w lemma="">καὖτος</w></l>
+                        <supplied reason="lost"><w lemma="">τότ’</w></supplied> <w lemma=""><supplied reason="lost">ἄ</supplied>λις</w> <w lemma="δέ">δ’</w> <w lemma="">ἀσπάσσατο</w> <w lemma="">καὖτος</w></l>
                     <l n="10" met="pentameter" real="+--+++|+--+--+">
                         <lb n="13"/><persName type="divine"><name nymRef="Μέμνων">Μέμνονα</name></persName>,
-                        <w lemma="">κἀν</w> <w lemma=""><supplied reason="lost">στά</supplied>λαι</w> <w lemma="">κά<unclear>λλ</unclear>ι<supplied reason="lost">π</supplied>εν</w>
+                        <w lemma="καί ἐν">κἀν</w> <w lemma=""><supplied reason="lost">στά</supplied>λαι</w> <w lemma="">κά<unclear>λλ</unclear>ι<supplied reason="lost">π</supplied>εν</w>
                         <w lemma="">ὀψ<supplied reason="lost">ι</supplied>γόνοις</w></l>
                     <l n="11" met="hexameter" real="+--+++-|-+--+--+-">
                         <lb n="14"/><w lemma="">γρόππατα</w> <w lemma="">σαμαίνο<supplied reason="lost">ν</supplied>τά</w> <w lemma="">τ’</w> <w lemma="">ὄσ’</w>
                         <w lemma="">εὔϊδε</w> <w lemma="">κὤσσ’</w> <w lemma="">ἐσάκουσε</w>,</l>
                     <l n="12" met="pentameter" real="+++-+|+--+--+">
                         <lb n="15"/><w lemma="">δῆλον</w> <w lemma="">παῖσι</w> <w lemma="δέ">δ’</w> <w lemma="">ἔγε<supplied reason="lost">ν</supplied>τ’</w>
-                        <w lemma="">ὤς</w> <w lemma=""><choice><corr>ϝ</corr><sic>Γ</sic></choice>ε</w> <w lemma="φιλέω">φίλισι</w> <w lemma="θεός">θέοι</w>.</l>
+                        <w lemma="">ὤς</w> <w lemma="ὅς"><choice><corr>ϝ</corr><sic>Γ</sic></choice>ε</w> <w lemma="φιλέω">φίλισι</w> <w lemma="θεός">θέοι</w>.</l>
                 </lg>
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
