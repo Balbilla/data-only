@@ -45,10 +45,21 @@
                <persName xml:lang="grc">Ἁδριανός</persName>
                <occupation>Σεβαστός</occupation>
                <occupation>Παμβασιλεύς</occupation>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q1427</idno></bibl>
+                  <bibl><listRelation>
+                     <relation active="#hadrian" ref="snap:husbandOf" passive="#sabina"></relation>
+                  </listRelation></bibl>
+               </listBibl>
             </person>
             
             <person xml:id="sabina">
-               <persName></persName>
+               <persName xml:lang="en">Sabina</persName>
+               <persName xml:lang="grc">Σαβείνη</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q232716</idno></bibl>
+                  <bibl><listRelation><relation active="#sabina" ref="snap:wifeOf" passive="#hadrian"><desc>Wife of Hadrian</desc></relation></listRelation></bibl>
+               </listBibl>
             </person>
             
             <person xml:id="antiochusep">
