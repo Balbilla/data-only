@@ -47,6 +47,8 @@
                <occupation>Παμβασιλεύς</occupation>
                <listBibl>
                   <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q1427</idno></bibl>
+                  <bibl><idno type="VIAF">https://viaf.org/viaf/82440741/</idno></bibl>
+                  <bibl><idno type="ISNI">http://www.isni.org/isni/0000000108449425</idno></bibl>
                   <bibl><listRelation>
                      <relation active="#hadrian" ref="snap:husbandOf" passive="#sabina"></relation>
                   </listRelation></bibl>
