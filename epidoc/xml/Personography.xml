@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -90,7 +89,7 @@
                <listBibl>
                   <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q506781</idno></bibl>
                   <listRelation>
-                     <relation active="#memnon" ref="snap:sonOf" passive="#eos"><desc>Son of Eos</desc></relation>
+                     <relation active="#memnon" ref="snap:SonOf" passive="#eos"><desc>Son of Eos</desc></relation>
                   </listRelation>
                </listBibl>
             </person>
@@ -99,16 +98,30 @@
                <persName xml:lang="en">Eos</persName>
                <persName xml:lang="en">Dawn</persName>
                <persName xml:lang="grc">Ἔως</persName>
+               <persName xml:lang="fr">Aurore</persName>
+               <persName xml:lang="it">Aurora</persName>
                <listBibl>
                   <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q178417</idno></bibl>
                   <listRelation>
-                     <relation active="#eos" ref="snap:motherOf" passive="#memnon"><desc>Mother of Memnon</desc></relation>
+                     <relation active="#eos" ref="snap:MotherOf" passive="#memnon"><desc>Mother of Memnon</desc></relation>
+                     <relation active="#eos" ref="snap:IntimateRelationshipWith" passive="#tithonos"><desc>Lover of Tithonos</desc></relation>
                   </listRelation>
                </listBibl>
             </person>
             
             <person xml:id="tithonos">
-               <persName></persName>
+               <persName xml:lang="en">Tithonos</persName>
+               <persName xml:lang="grc">Τιθωνός</persName>
+               <persName xml:lang="la">Tithonus</persName>
+               <persName xml:lang="fr">Tithon</persName>
+               <persName xml:lang="it">Titono</persName>
+               <listBibl>
+                  <bibl><ref type="Wikidata">https://www.wikidata.org/wiki/Q737306</ref></bibl>
+                  <bibl><listRelation>
+                     <relation active="#tithonos" ref="snap:FatherOf" passive="#memnon"><desc>Father of Memnon</desc></relation>
+                     <relation active="#tithonos" ref="snap:IntimateRelationshipWith" passive="#eos"><desc>Lover of Eos</desc></relation>
+                  </listRelation></bibl>
+               </listBibl>
             </person>
          </listPerson>
       </body>
