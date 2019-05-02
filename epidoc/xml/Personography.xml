@@ -78,6 +78,19 @@
             <person xml:id="trasillus">
                <persName></persName>
             </person>
+            
+            <person xml:id="kambyses2">
+               <persName xml:lang="en">Kambyses</persName>
+               <persName xml:lang="en">Cambyses II</persName>
+               <persName xml:lang="grc">Καμβύσαις</persName>
+               <persName xml:lang="fr">Cambyse</persName>
+               <persName xml:lang="it">Cambise</persName>
+               <persName xml:lang="peo">&#66467;&#66482;&#66466;&#66474;&#66465;&#66489;</persName>
+               <persName xml:lang="peo-Latn">Kambūjiya</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q182483</idno></bibl>
+               </listBibl>
+            </person>
          </listPerson>
          
          <listPerson>
@@ -121,6 +134,15 @@
                      <relation active="#tithonos" ref="snap:FatherOf" passive="#memnon"><desc>Father of Memnon</desc></relation>
                      <relation active="#tithonos" ref="snap:IntimateRelationshipWith" passive="#eos"><desc>Lover of Eos</desc></relation>
                   </listRelation></bibl>
+               </listBibl>
+            </person>
+            
+            <person xml:id="apis">
+               <persName xml:lang="en">Apis</persName>
+               <persName xml:lang="grc">Ἆπις</persName>
+               <persName xml:lang="egy-Latn">ḥjpw</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q208150</idno></bibl>
                </listBibl>
             </person>
          </listPerson>

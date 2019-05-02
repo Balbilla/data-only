@@ -61,9 +61,9 @@
                     <l n="6" met="pentameter" real="+++--+|+--+--+">
                         <lb n="8"/><w lemma="ὁ">τὰν</w> <w lemma="σέμνη">σέμναν</w> <w lemma="ἄλοχος">ἄλοχον</w> <w>κοιράνω</w> <persName type="ruler"><name>Ἀδριάνω</name></persName>.</l>
                     <l n="7" met="hexameter" real="+++++-|-+--+--++">
-                        <lb n="9"/><w>γλῶσσαν</w> <w lemma="μέν">μέν</w> <w>τοι</w> <w>τμᾶξε</w> <w lemma="καί"><supplied reason="lost">κ</supplied>αὶ</w> <w>ὤατα</w> <w lemma="βάρβαρος">βάρβαρ<unclear>ος</unclear></w> <w lemma="ἀνήρ">ἄνηρ</w>,</l>
+                        <lb n="9"/><w>γλῶσσαν</w> <w lemma="μέν">μέν</w> <w>τοι</w> <w lemma="τέμνω">τμᾶξε</w> <w lemma="καί"><supplied reason="lost">κ</supplied>αὶ</w> <w lemma="οὖς">ὤατα</w> <w lemma="βάρβαρος">βάρβαρ<unclear>ος</unclear></w> <w lemma="ἀνήρ">ἄνηρ</w>,</l>
                     <l n="8" met="pentameter" real="+++--+|+--+--+">
-                        <lb n="10"/><persName type="ruler"><name>Καμβύσαις</name></persName> <w lemma="ἄθεος">ἄθεος</w>· <w lemma="ὁ">τῶ</w> <w>ῥα</w> <w>λύγρῳ</w> <w lemma="θάνατος">θα<unclear>ν</unclear>άτῳ</w></l>
+                        <lb n="10"/><persName type="ruler" nymRef="Καμβύσης"><name>Καμβύσαις</name></persName> <w lemma="ἄθεος">ἄθεος</w>· <w lemma="ὁ">τῶ</w> <w lemma="ἄρα">ῥα</w> <w lemma="λύγρος">λύγρῳ</w> <w lemma="θάνατος">θα<unclear>ν</unclear>άτῳ</w></l>
                     <l n="9" met="hexameter" real="+++++|++--+--++">
                         <lb n="11"/><w>δῶκέν</w> <w>τοι</w> <w>ποίναν</w> <w>τὤτωι</w> <w>ἅκ<supplied reason="lost">ρῳ</supplied></w> <w>ἄορι</w> <w>πλάγεις</w></l>
                     <l n="10" met="pentameter" real="+++++|+--+--+">
@@ -88,7 +88,7 @@
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
                 <p>When I, with Augusta Sabina, came before Memnon.</p>
-                <p>O Memnon, child of Eos and elder Tithonos, sitting opposite Zeus’ city of Thebes—or Amenoth, Egyptian king, as the priests who know the ancient stories tell—greetings, and by singing kindly welcome the revered wife of Emperor Hadrian herself. 
+                <p>O Memnon, child of Eos and elder Tithonos, sitting opposite Zeus’ city of Thebes—or Amenoth, Egyptian king, as the priests who know the ancient stories tell—greetings, and by singing kindly welcome also the revered wife of Emperor Hadrian herself. A barbarian man, godless Kambyses, cut off your tongue and your ears; 
                 <!-- … --></p>
             </div>
             <div type="translation" xml:lang="fr" source="#aeb1960">
