@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          format="aldt"
+          version="1.5"
+          xml:lang="grc">
+   <date>2019-05-04 10:10:07 UTC</date>
+   <annotator>
+      <short>gabrielbodard</short>
+      <name>Gabriel Bodard</name>
+      <address>gabrielbodard@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/gabrielbodard</uri>
+  </annotator>
+   <sentence id="1" document_id="Balbilla-2.xml|0|reg" subdoc="98466|197">
+      <word id="1" form="ὅτε" lemma="ὅτε" postag="c--------" relation="" head=""/>
+      <word id="2" form="σὺν" lemma="σύν" postag="r--------" relation="" head=""/>
+      <word id="3" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="" head=""/>
+      <word id="4" form="Σεβαστῇ" lemma="Σεβαστή" postag="n-s---fd-" relation="" head=""/>
+      <word id="5" form="Σαβείνηι" lemma="Σαβείνη" postag="n-s---fd-" relation="" head=""/>
+      <word id="6" form="ἐγενόμην" lemma="γίγνομαι" postag="v1saim---" relation="" head=""/>
+      <word id="7" form="παρὰ" lemma="παρά" postag="r--------" relation="" head=""/>
+      <word id="8" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="" head=""/>
+      <word id="9" form="Μέμνονι" lemma="Μέμνων" postag="n-s---md-" relation="" head=""/>
+      <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="2" document_id="Balbilla-2.xml|0|reg" subdoc="98466|197">
+      <word id="1" form="Αὔως" lemma="αὔως" postag="n-s---fg-" relation="" head=""/>
+      <word id="2" form="καὶ" lemma="καί" postag="c--------" relation="" head=""/>
+      <word id="3" form="γεράρω" lemma="γεραρός" postag="a-s---mg_" relation="" head=""/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="5" form="Μέμνον" lemma="Μέμνων" postag="n-s---mv-" relation="" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" form="πάϊ" lemma="παῖς" postag="n-s---mv-" relation="" head=""/>
+      <word id="8" form="Τιθώνοιο" lemma="Τιθωνός" postag="n-s---mg-" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="10" form="Θηβάας" lemma="Θηβαῖος" postag="a-s---fgs" relation="" head=""/>
+      <word id="11" form="θάσσων" lemma="θάσσω" postag="v-sppamn-" relation="" head=""/>
+      <word id="12" form="ἄντα" lemma="ἄντα" postag="d--------" relation="" head=""/>
+      <word id="13" form="Δίος" lemma="Ζεύς" postag="n-s---mg-" relation="" head=""/>
+      <word id="14" form="πόλιος" lemma="πόλις" postag="n-s---fg-" relation="" head=""/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="16" form="ἢ" lemma="ἤ1" postag="c--------" relation="" head=""/>
+      <word id="17" form="Ἀμένωθ" lemma="Ἀμένωθ" postag="n-s---mn-" relation="" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="19" form="βασίλευ" lemma="βασιλεύς" postag="n-s---mv-" relation="" head=""/>
+      <word id="20" form="Αἰγύπτιε" lemma="Αἰγύπτιος" postag="a-s---mv-" relation="" head=""/>
+      <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="22" form="τὼς" lemma="τώς" postag="d--------" relation="" head=""/>
+      <word id="23" form="ἐνέποισιν" lemma="ἐνέπω" postag="v3ppia---" relation="" head=""/>
+      <word id="24" form="ἴρηες" lemma="ἱερεύς" postag="n-p---mn-" relation="" head=""/>
+      <word id="25" form="μύθων" lemma="μῦθος" postag="n-p---mg-" relation="" head=""/>
+      <word id="26" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="" head=""/>
+      <word id="27" form="παλάων" lemma="παλαιός" postag="a-p---mg_" relation="" head=""/>
+      <word id="28" form="ἴδριες" lemma="ἴδρις" postag="n-p---mn-" relation="" head=""/>
+      <word id="29" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="30" form="χαῖρε" lemma="χαίρω" postag="v2spma---" relation="" head=""/>
+      <word id="31" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="32" form="καὶ" lemma="καί" postag="c--------" relation="" head=""/>
+      <word id="33" form="αὐδάσαις" lemma="" postag="" relation="" head=""/>
+      <word id="34" form="πρόφρων" lemma="" postag="" relation="" head=""/>
+      <word id="35" form="ἀσπάσδεο" lemma="" postag="" relation="" head=""/>
+      <word id="36" form="καὔταν" lemma="" postag="" relation="" head=""/>
+      <word id="37" form="τὰν" lemma="" postag="" relation="" head=""/>
+      <word id="38" form="σέμναν" lemma="" postag="" relation="" head=""/>
+      <word id="39" form="ἄλοχον" lemma="" postag="" relation="" head=""/>
+      <word id="40" form="κοιράνω" lemma="" postag="" relation="" head=""/>
+      <word id="41" form="Ἀδριάνω" lemma="" postag="" relation="" head=""/>
+      <word id="42" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3" document_id="Balbilla-2.xml|0|reg" subdoc="98466|197">
+      <word id="1" form="γλῶσσαν" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="μέν" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="τοι" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="τμᾶξε" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="καὶ" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="ὤατα" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="βάρβαρος" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="ἄνηρ" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="10" form="Καμβύσαις" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="ἄθεος" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4" document_id="Balbilla-2.xml|0|reg" subdoc="98466|197">
+      <word id="1" form="τῶ" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="ῥα" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="λύγρῳ" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="θανάτῳ" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="δῶκέν" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="τοι" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="ποίναν" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="τὤτωι" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="ἅκρῳ" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="ἄορι" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="πλάγεις" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="τῷ" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="νήλας" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="Ἆπιν" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="κάκτανε" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="τὸν" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="θέϊον" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5" document_id="Balbilla-2.xml|0|reg" subdoc="98466|197">
+      <word id="1" form="ἀλλ’" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="ἔγω" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="οὐ" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="δοκίμωμι" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="σέθεν" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="τόδ’" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="ὄλεσθ’" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="ἂν" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="ἄγαλμα" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="11" form="ψύχαν" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="δ’" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="ἀθανάταν" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="λοίπον" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="ἔσωσα" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="νόῳ" lemma="" postag="" relation="" head=""/>
+      <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="6" document_id="Balbilla-2.xml|0|reg" subdoc="98466|197">
+      <word id="1" form="εὐσέβεες" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="γὰρ" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="ἔμοι" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="γένεται" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="πάπποι" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="τ’" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="ἐγένοντο" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="9" form="Βάλβιλλός" lemma="" postag="" relation="" head=""/>
+      <word id="10" form="τ’" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="ὀ" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="σόφος" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="κ’" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="Ἀντίοχος" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="βασίλευς" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="17" form="Βάλβιλλος" lemma="" postag="" relation="" head=""/>
+      <word id="18" form="γενέταις" lemma="" postag="" relation="" head=""/>
+      <word id="19" form="μᾶτρος" lemma="" postag="" relation="" head=""/>
+      <word id="20" form="βασιλήϊδος" lemma="" postag="" relation="" head=""/>
+      <word id="21" form="ἄμμας" lemma="" postag="" relation="" head=""/>
+      <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="23" form="τῶ" lemma="" postag="" relation="" head=""/>
+      <word id="24" form="πάτερος" lemma="" postag="" relation="" head=""/>
+      <word id="25" form="δὲ" lemma="" postag="" relation="" head=""/>
+      <word id="26" form="πάτηρ" lemma="" postag="" relation="" head=""/>
+      <word id="27" form="Ἀντίοχος" lemma="" postag="" relation="" head=""/>
+      <word id="28" form="βασίλευς" lemma="" postag="" relation="" head=""/>
+      <word id="29" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="7" document_id="Balbilla-2.xml|0|reg" subdoc="98466|197">
+      <word id="1" form="κήνων" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="ἐκ" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="γενέας" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="κἄγω" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="λόχον" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="αἶμα" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="τὸ" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="κᾶλον" lemma="" postag="" relation="" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="10" form="Βαλβίλλας" lemma="" postag="" relation="" head=""/>
+      <word id="11" form="δ’" lemma="" postag="" relation="" head=""/>
+      <word id="12" form="ἔμεθεν" lemma="" postag="" relation="" head=""/>
+      <word id="13" form="γρόπτα" lemma="" postag="" relation="" head=""/>
+      <word id="14" form="τάδ’" lemma="" postag="" relation="" head=""/>
+      <word id="15" form="εὐσέβεος" lemma="" postag="" relation="" head=""/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
