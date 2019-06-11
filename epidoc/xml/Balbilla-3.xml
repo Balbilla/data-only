@@ -49,7 +49,7 @@
        <lb n="2" break="no"/>κούσαμεν</w> <w>τοῦ</w> <persName type="divine"><name>Μέμνονος</name></persName>.
                 </ab>
                 <lg met="elegaic">
-                    <l n="1" met="hexameter" real="+++++++|--+--++"><lb n="3"/><w>χθίσδον</w> <w lemma="μέν">μὲν</w> <persName type="divine"><name>Μέμνων</name></persName> <w>σίγαις</w> <w>ἀπε<supplied reason="lost">δέξατ’</supplied></w> <w><supplied reason="lost">ἀκ</supplied>οίτα<supplied reason="lost" cert="low">ν</supplied></w><supplied reason="lost">,</supplied></l>
+                    <l n="1" met="hexameter" real="+++++++|--+--++"><lb n="3"/><w lemma="χθιζός">χθίσδον</w> <w lemma="μέν">μὲν</w> <persName type="divine"><name>Μέμνων</name></persName> <w lemma="σιγάω">σίγαις</w> <w>ἀπε<supplied reason="lost">δέξατ’</supplied></w> <w><supplied reason="lost">ἀκ</supplied>οίτα<supplied reason="lost" cert="low">ν</supplied></w><supplied reason="lost">,</supplied></l>
                     <l n="2" met="pentameter" real="+++--+|+--+--+"><lb n="4"/><w>ὠς</w> <w>πάλιν</w> <w>ἀ</w> <w>κάλα</w> <w>τυῖδε</w> <persName type="ruler"><name>Σάβιννα</name></persName> <w><unclear>μ</unclear>ό<supplied reason="lost">λοι</supplied></w><supplied reason="lost">.</supplied></l>
                     <l n="3" met="hexameter" real="+++--+++|--+--++"><lb n="5"/><w>τ<unclear>έ</unclear>ρπει</w> <w>γάρ</w> <w>σ’</w> <w>ἐράτα</w> <w>μόρφα</w> <w>βασιλήϊδος</w> <w>ἄ<unclear>μ</unclear>μας</w>,</l>
                     <l n="4" met="pentameter" real="+++++|+--+--+"><lb n="6"/><w>ἐλθοίσαι</w> <w>δ’</w> <w><supplied reason="lost">α</supplied><unclear>ὔ</unclear>ται</w> <w>θήϊον</w> <w><unclear>ἄ</unclear>χον</w> <w>ἴη</w>,</l>

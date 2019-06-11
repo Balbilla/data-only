@@ -46,7 +46,7 @@
             <div type="edition" xml:lang="grc" xml:space="preserve">
                 <lg met="elegaic">
                     <l n="1" met="hexameter" real="+--+++-|-+--+++-">
-                        <lb n="1"/><w>ἔκλυον</w> <w>αὐδήσαντος</w> <w>ἔγω</w> <w>’πυ</w> <w>λίθω</w> <persName type="ruler"><name>Βάλβιλλα</name></persName></l>
+                        <lb n="1"/><w lemma="κλύω">ἔκλυον</w> <w>αὐδήσαντος</w> <w lemma="ἐγώ">ἔγω</w> <w>’πυ</w> <w lemma="λίθος ">λίθω</w> <persName type="ruler"><name>Βάλβιλλα</name></persName></l>
                     <l n="2" met="pentameter" real="+++--+|+--+--+">
                         <lb n="2"/><w>φώνα<corr>ς</corr></w> <w lemma="">τᾶς</w> <w>θεΐας</w> <persName type="divine"><name>Μέμνονος</name></persName> <w>ἢ</w> <persName type="divine"><name>Φαμένωθ</name></persName>.</l>
                     <l n="3" met="hexameter" real="+--+--+|--+--+--++">
