@@ -83,7 +83,7 @@
                     <l n="17" met="hexameter" real="+++--+|++--+--++">
                         <lb n="19"/><w>κήνων</w> <w lemma="ἐκ">ἐκ</w> <w>γενέας</w> <w lemma="καὶ ἐγώ">κἄγω</w> <w lemma="λόχος">λόχον</w> <w>αἶμα</w> <w lemma="ὁ">τὸ</w> <w lemma="καλός">κᾶλον</w>,</l>
                     <l n="18" met="pentameter" real="+++--+|+--+--+">
-                        <lb n="20"/><persName type="ruler"><name>Βαλβίλλας</name></persName> <w lemma="δέ">δ’</w> <w>ἔμεθεν</w> <w>γρόπτα</w> <w>τάδ’</w> <w>εὐσέβεος</w>.</l>
+                        <lb n="20"/><persName type="ruler"><name>Βαλβίλλας</name></persName> <w lemma="δέ">δ’</w> <w lemma="ἐγώ">ἔμεθεν</w> <w>γρόπτα</w> <w>τάδ’</w> <w>εὐσέβεος</w>.</l>
                 </lg>
             </div>
             <div type="translation" xml:lang="en" resp="#gb">
@@ -118,6 +118,7 @@
             </div>
             <div type="bibliography">
                 <listBibl>
+                    <bibl xml:id="letronne1848"><author>Antoine Jean Letronne</author>,  <title level="m">Recueil des inscriptions grecques et latines de l'Égypte</title>, Paris: L'Imprimerie royal, <date>1848</date>. <citedRange>CCCXLIV</citedRange></bibl>
                     <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; <author>Étienne Bernand</author>. <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title> «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31; Paris <date>1960</date>. <citedRange>29</citedRange></bibl>
                     <bibl xml:id="PHI"><title>PHI</title> <citedRange>227950</citedRange>; <ref>http://epigraphy.packhum.org/text/227950</ref></bibl>
                     <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. <title level="m">Gli epigrammi di Giulia Balbilla. Ricordi di una dama di corte e altri testi al femminile sul Colosso di Memnone.</title> Pensa Multimedia, <date>2011</date>. <citedRange>2</citedRange></bibl>

@@ -24,5 +24,5 @@ This project will involve a digital edition and analysis of the extant works of 
 
 * A & E Bernand, _Les inscriptions grecques et latines du Colosse de Memnon_, 1960.
 * Amalia Cirio, _Gli epigrammi di Giulia Balbilla_, 2011.
-* Antoine Jean Letronne,  _Recueil des inscriptions grecques et latines de l'Égypte_, Paris: L'Imprimerie royal, 1848. 
+* Antoine Jean Letronne,  _Recueil des inscriptions grecques et latines de l'Égypte_, Paris: L'Imprimerie royal, 1848.
 * Patricia A. Rosenmeyer, _The Language of Ruins: Greek and Latin Inscriptions on the Memnon Colossus_, (2018).
