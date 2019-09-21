@@ -44,8 +44,9 @@
     <text>
         <body>
             <div type="edition" xml:lang="grc" xml:space="preserve">
-                <ab><lb n="1"/><w>ὅτε</w> <w>σὺν</w> <w lemma="ὁ">τῇ</w> <persName type="emperor"><name>Σεβαστῇ</name> <name>Σαβείνη
-                        <lb n="2" break="no"/>ι</name></persName> <w>ἐγενόμην</w> <w>παρὰ</w> <w lemma="ὁ">τῷ</w> <persName type="divine"><name>Μέμνονι</name></persName>.
+                <ab>
+                    <lb n="1"/><w>ὅτε</w> <w>σὺν</w> <w lemma="ὁ">τῇ</w> <persName type="emperor"><name>Σεβαστῇ</name> <name>Σαβείνη<lb
+                    n="2" break="no"/>ι</name></persName> <w>ἐγενόμην</w> <w>παρὰ</w> <w lemma="ὁ">τῷ</w> <persName type="divine"><name>Μέμνονι</name></persName>.
                 </ab>
                 <lg met="elegaic">
                     <l n="1" met="hexameter" real="+++--+|++--+++-">
