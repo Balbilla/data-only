@@ -17,9 +17,11 @@
                     <msIdentifier><msName>Bernand 31</msName></msIdentifier>
                     <physDesc>
                         <objectDesc>
-                            <supportDesc><support><p>Colossus of Memnon.</p>
+                            <supportDesc><support><p>Colossus of Memnon (northernmost, or right-hand, of two Colossi of Amenhotep III).</p>
                                 <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/241">Statue</objectType>
-                                <material ref="https://www.eagle-network.eu/voc/material/lod/51.html">Quartzite sandstone</material></support></supportDesc>
+                                <material ref="https://www.eagle-network.eu/voc/material/lod/51.html">Quartzite sandstone</material>
+                                <dimensions><height unit="metre" precision="low">18</height></dimensions>
+                            </support></supportDesc>
                             <layoutDesc><layout>Incised into the stone on the left leg.</layout></layoutDesc>
                         </objectDesc>
                         <handDesc>
