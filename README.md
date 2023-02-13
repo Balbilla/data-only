@@ -16,7 +16,6 @@ This project will involve a digital edition and analysis of the extant works of 
 * [DBpedia:Julia_Balbilla](http://dbpedia.org/page/Julia_Balbilla)
 * [Viaf 34843877](https://viaf.org/viaf/34843877/)
 * [Library of Congress](http://id.loc.gov/authorities/names/n2013073600)
-* [SNAP:7087](http://data.snapdrgn.net/person/7087)
 * [Trismegistos People:85919](https://www.trismegistos.org/person/85919)
 * PIR² I 650
 
