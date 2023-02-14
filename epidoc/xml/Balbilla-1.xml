@@ -17,7 +17,8 @@
                     <msIdentifier><msName>Bernand 28</msName></msIdentifier>
                     <physDesc>
                         <objectDesc>
-                            <supportDesc><support><p>Colossus of Memnon (northernmost, or right-hand, of two Colossi of Amenhotep III).</p>
+                            <supportDesc>
+                                <support><p>Colossus of Memnon (northernmost, or right-hand, of two Colossi of Amenhotep III).</p>
                                 <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/241">Statue</objectType>
                                 <material ref="https://www.eagle-network.eu/voc/material/lod/51.html">Quartzite sandstone</material>
                             <dimensions><height unit="metre" precision="low">18</height></dimensions>
@@ -31,7 +32,8 @@
                     <history>
                         <origin>
                             <origDate when="0130" period="http://n2t.net/ark:/99152/p077pzfwxfr">130 C.E.</origDate>
-                            <origPlace ref="https://pleiades.stoa.org/places/188894567" xml:id="origplace">Mortuary Temple of Amenhotep III,
+                            <origPlace ref="https://pleiades.stoa.org/places/188894567" xml:id="origplace">
+                                Mortuary Temple of Amenhotep III,
                                 <placeName ref="https://pleiades.stoa.org/places/786067">Thebes</placeName>,
                                 <placeName ref="https://pleiades.stoa.org/places/766">Egypt</placeName>.</origPlace>
                         </origin>
@@ -51,20 +53,25 @@
                         ><name nymRef="Ἰουλία">Ἰουλίας</name>
                         <name nymRef="Βαλβίλλα">Βαλ<choice><sic>Λ</sic><corr>β</corr></choice>ίλλης</name></persName>·
                     <lb n="2"/><w lemma="ὅτε">ὅτε</w> <w lemma="ἀκούω">ἤκουσε</w> <w lemma="ὁ">τοῦ</w>
-                    <persName type="divine" ref="https://www.wikidata.org/wiki/Q506781"><name nymRef="Μέμνων">Μέμνο<supplied reason="omitted"
+                    <persName type="divine" ref="https://www.wikidata.org/wiki/Q506781"
+                        ><name nymRef="Μέμνων">Μέμνο<supplied reason="omitted"
                         >νο</supplied>ς</name></persName>
                     <lb n="3"/><w lemma="ὁ">ὁ</w> <persName type="ruler" 
-                        ref="http://data.snapdrgn.net/person/6154"><name nymRef="Σεβαστός"><w lemma="σεβαστός">Σεβαστὸς</w></name>
+                        ref="http://data.snapdrgn.net/person/6154"><name nymRef="Σεβαστός"
+                            ><w lemma="σεβαστός">Σεβαστὸς</w></name>
                         <name nymRef="Ἁδριανός">Ἁδριανός</name></persName>.
                 </ab>
                 <lg met="elegaic">
                     <l n="1" met="hexameter" real="+--+--+|++--+--++">
                         <lb n="4"/><persName type="divine"><name nymRef="Μέμνων">Μέμνονα</name></persName>
-                        <w lemma="πυνθάνομαι">πυνθανόμαν</w> <placeName ref="https://pleiades.stoa.org/places/766"><w lemma="Αἰγύπτιος">Αἰγύπτιον</w></placeName>, <w lemma="ἥλιος">ἀλίω</w>
+                        <w lemma="πυνθάνομαι">πυνθανόμαν</w>
+                        <placeName ref="https://pleiades.stoa.org/places/766"><w lemma="Αἰγύπτιος">Αἰγύπτιον</w></placeName>,
+                        <w lemma="ἥλιος">ἀλίω</w>
                         <w lemma="αὐγή">αὔγαι</w></l>
                     <l n="2" met="pentameter" real="+--+++|+--+--+">
                         <lb n="5"/><w lemma="αἴθω">αἰθόμενον</w>, <w lemma="φώνη">φώνην</w>
-                        <placeName ref="https://pleiades.stoa.org/places/786067"><w lemma="Θηβαΐκος">Θηβαΐ<choice><sic>Χ</sic><corr>κ</corr></choice>ω</w></placeName>
+                        <placeName ref="https://pleiades.stoa.org/places/786067"><w
+                            lemma="Θηβαΐκος">Θηβαΐ<choice><sic>Χ</sic><corr>κ</corr></choice>ω</w></placeName>
                         <w lemma="ἀπό">’πυ</w> <w lemma="λίθος">λίθω</w>.</l>
                     <l n="3" met="hexameter" real="+--+--+|++--+--++">
                         <lb n="6"/><persName type="ruler"><name nymRef="Ἁδριανός">Ἀδρίανον</name></persName>
