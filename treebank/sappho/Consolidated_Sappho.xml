@@ -2152,15 +2152,7 @@
     <word id="100002409" form="ἈρτεμιG?" form_original="Ἀρτεμι̣[G?]" line="6" div_fragment="84" lemma="G" postag="z--------" head="0" relation="GAP"/>
     <word id="100002410" form="G?ναβλG?" form_original="[G?]ναβλ[G?]" line="7" div_fragment="84" lemma="G" postag="z--------" head="0" relation="GAP"/>
   </sentence>
-  <sentence struct_id="199" id="199" document_id="0009-001" analysis="manual">
-    <word id="100002411" form="G?G2" form_original="[G?]G2" line="1" div_fragment="85a" div_subfragment="85a.1" div_column="85a.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002412" form="G?" form_original="[G?]" line="1" div_fragment="85a" div_subfragment="85a.1" div_column="85a.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002413" form="G?λβον" form_original="[G?]λβον" line="2" div_fragment="85a" div_subfragment="85a.1" div_column="85a.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002414" form="G?" form_original="[G?]" line="2" div_fragment="85a" div_subfragment="85a.1" div_column="85a.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002415" form="G?ακούην" form_original="[G?]ακούην" line="3" div_fragment="85a" div_subfragment="85a.1" div_column="85a.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002416" form="G?άυταν" form_original="[G?]ά̣υταν̣" line="4" div_fragment="85a" div_subfragment="85a.1" div_column="85a.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002417" form="G?" form_original="[G?]" line="4" div_fragment="85a" div_subfragment="85a.1" div_column="85a.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
+  <!-- Fragment 86 -->
   <sentence struct_id="200" id="200" document_id="0009-001" analysis="manual">
     <word id="100002418" form="G?GακάλαGG?" form_original="[G?]GακάλαG[G?]" line="1" div_fragment="86" lemma="G" postag="z--------" head="0" relation="GAP"/>
     <word id="100002419" form="G?" form_original="[G?]" line="2" div_fragment="86" lemma="G" postag="z--------" head="0" relation="GAP"/>
@@ -2186,224 +2178,7 @@
     <word id="100002439" form="G?Gν" form_original="[G?]Gν" line="8" div_fragment="86" lemma="G" postag="z--------" head="0" relation="GAP"/>
     <word id="100002440" form="χαλέπαιGG?" form_original="χα̣λέπαιG[G?]" line="8" div_fragment="86" lemma="G" postag="z--------" head="0" relation="GAP"/>
   </sentence>
-  <sentence struct_id="201" id="201" document_id="0009-001" analysis="manual">
-    <word id="100002441" form="G?σθην" line="1" div_fragment="87" div_subfragment="87.1" div_column="87.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002442" form="Gς" line="2" div_fragment="87" div_subfragment="87.1" div_column="87.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002443" form="·" line="2" div_fragment="87" div_subfragment="87.1" div_column="87.1.1" lemma="·" postag="u--------" head="0" relation="AuxK"/>
-  </sentence>
-  <sentence struct_id="202" id="202" document_id="0009-001" analysis="manual">
-    <word id="100002444" form="G?" form_original="[G?]" line="3" div_fragment="87" div_subfragment="87.1" div_column="87.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002445" form="G?" form_original="[G?]" line="4" div_fragment="87" div_subfragment="87.1" div_column="87.1.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002446" form="ἀλG?" form_original="ἀλ̣[G?]" line="1" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002447" form="ἐπG?" form_original="ἐπ̣[G?]" line="2" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002448" form="φG?" form_original="φ[G?]" line="3" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002449" form="ξαG?" form_original="ξα[G?]" line="4" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002450" form="ὀπG?" form_original="ὀπ[G?]" line="5" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002451" form="ἤλG?" form_original="ἤλ̣[G?]" line="6" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002452" form="τG?" form_original="τ̣[G?]" line="7" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="203" id="203" document_id="0009-001" analysis="manual">
-    <word id="100002453" form="G_L" line="8" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="204" id="204" document_id="0009-001" analysis="manual">
-    <word id="100002454" form="G_L" line="9" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="205" id="205" document_id="0009-001" analysis="manual">
-    <word id="100002455" form="G_L" line="10" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="206" id="206" document_id="0009-001" analysis="manual">
-    <word id="100002456" form="ζαG?" form_original="ζα[G?]" line="11" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002457" form="ὐGG?" form_original="ὐ̣G[G?]" line="12" div_fragment="87" div_subfragment="87.1" div_column="87.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="207" id="207" document_id="0009-001" analysis="manual">
-    <word id="100002458" form="G?αμμG?" form_original="[G?]αμμ̣[G?]" line="1" div_fragment="87" div_subfragment="87.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002459" form="G?ικαGG?" form_original="[G?]ι̣καG[G?]" line="2" div_fragment="87" div_subfragment="87.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002460" form="G?πόισαιG?" form_original="[G?]πόισαι[G?]" line="3" div_fragment="87" div_subfragment="87.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002461" form="κλεηδονG?" form_original="κ̣λεηδον̣[G?]" line="4" div_fragment="87" div_subfragment="87.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002462" form="GπλοκαμG?" form_original="Gπλοκαμ[G?]" line="5" div_fragment="87" div_subfragment="87.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002463" form="G?εσδαμαG?" form_original="[G?]ε̣σδα̣μα[G?]" line="6" div_fragment="87" div_subfragment="87.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002464" form="G?ανθρώπG?" form_original="[G?]ανθρώπ[G?]" line="7" div_fragment="87" div_subfragment="87.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002465" form="G?GυμαινG?" form_original="[G?]Gυμαιν[G?]" line="8" div_fragment="87" div_subfragment="87.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002466" form="G?τεκαιπG?" form_original="[G?]τ̣εκ̣αιπ̣[G?]" line="9" div_fragment="87" div_subfragment="87.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="208" id="208" document_id="0009-001" analysis="manual">
-    <word id="100002467" form="G?" form_original="[G?]" line="1" div_fragment="87" div_subfragment="87.3" div_column="87.3.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002468" form="G?" form_original="[G?]" line="2" div_fragment="87" div_subfragment="87.3" div_column="87.3.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002469" form="G?" form_original="[G?]" line="3" div_fragment="87" div_subfragment="87.3" div_column="87.3.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002470" form="G?σην" line="5" div_fragment="87" div_subfragment="87.3" div_column="87.3.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="209" id="209" document_id="0009-001" analysis="manual">
-    <word id="100002471" form="αG?" form_original="α[G?]" line="1" div_fragment="87" div_subfragment="87.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002472" form="πG?" form_original="π[G?]" line="2" div_fragment="87" div_subfragment="87.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002473" form="συG?" form_original="συ[G?]" line="3" div_fragment="87" div_subfragment="87.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002474" form="κG?" form_original="κ[G?]" line="4" div_fragment="87" div_subfragment="87.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002475" form="τGG?" form_original="τG[G?]" line="5" div_fragment="87" div_subfragment="87.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="210" id="210" document_id="0009-001" analysis="manual">
-    <word id="100002476" form="ουG?" form_original="ο̣υ[G?]" line="1" div_fragment="87" div_subfragment="87.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002477" form="ὲνG?" form_original="ὲν̣[G?]" line="2" div_fragment="87" div_subfragment="87.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002478" form="σεδG?" form_original="σεδ[G?]" line="3" div_fragment="87" div_subfragment="87.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002479" form="παG?" form_original="πα[G?]" line="4" div_fragment="87" div_subfragment="87.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="211" id="211" document_id="0009-001" analysis="manual">
-    <word id="100002480" form="κατG?" form_original="κατ[G?]" line="1" div_fragment="87" div_subfragment="87.6" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002481" form="μήμG?" form_original="μήμ̣[G?]" line="2" div_fragment="87" div_subfragment="87.6" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002482" form="δώGG?" form_original="δώG[G?]" line="3" div_fragment="87" div_subfragment="87.6" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="212" id="212" document_id="0009-001" analysis="manual">
-    <word id="100002483" form="G?GινG?" form_original="[G?]Gιν[G?]" line="1" div_fragment="87" div_subfragment="87.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002484" form="G?ήGG?" form_original="[G?]ήG[G?]" line="2" div_fragment="87" div_subfragment="87.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002485" form="G?" form_original="[G?]" line="3" div_fragment="87" div_subfragment="87.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002486" form="καG?" form_original="κα[G?]" line="3" div_fragment="87" div_subfragment="87.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002487" form="τακG?" form_original="τακ̣[G?]" line="4" div_fragment="87" div_subfragment="87.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002488" form="ταG?" form_original="τ̣α[G?]" line="5" div_fragment="87" div_subfragment="87.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="213" id="213" document_id="0009-001" analysis="manual">
-    <word id="100002489" form="μεριμναG?" form_original="[μ]εριμνα[G?]" line="1" div_fragment="87" div_subfragment="87.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002490" form="G?γην" form_original="[G?]γ̣ην" line="2" div_fragment="87" div_subfragment="87.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002491" form="G?" form_original="[G?]" line="2" div_fragment="87" div_subfragment="87.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002492" form="G?αικοG?" form_original="[G?]α̣ι̣κο̣[G?]" line="3" div_fragment="87" div_subfragment="87.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002493" form="G?αι" form_original="[G?]αι" line="4" div_fragment="87" div_subfragment="87.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002494" form="G?" form_original="[G?]" line="4" div_fragment="87" div_subfragment="87.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="214" id="214" document_id="0009-001" analysis="manual">
-    <word id="100002495" form="GοιπλυGG?" form_original="Gο̣ιπλυG[G?]" line="1" div_fragment="87" div_subfragment="87.9" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002496" form="G?γετοχυG?" form_original="[G?]γ̣ετοχ̣υ̣[G?]" line="2" div_fragment="87" div_subfragment="87.9" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002497" form="G?G2’" form_original="[G?]G2’" line="3" div_fragment="87" div_subfragment="87.9" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002498" form="άG?" form_original="ά[G?]" line="3" div_fragment="87" div_subfragment="87.9" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="215" id="215" document_id="0009-001" analysis="manual">
-    <word id="100002499" form="GδωGG?" form_original="[G]δωG[G?]" line="1" div_fragment="87" div_subfragment="87.11" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002500" form="τόλμG?" form_original="τ̣ό̣λμ[G?]" line="2" div_fragment="87" div_subfragment="87.11" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="216" id="216" document_id="0009-001" analysis="manual">
-    <word id="100002501" form="κλαG?" form_original="κλα̣[G?]" line="1" div_fragment="87" div_subfragment="87.10" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002502" form="G?ύσGG?" form_original="[G?]ύσG[G?]" line="2" div_fragment="87" div_subfragment="87.10" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002503" form="G?GέσG?" form_original="[G?]Gέ̣σ̣[G?]" line="3" div_fragment="87" div_subfragment="87.10" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="217" id="217" document_id="0009-001" analysis="manual">
-    <word id="100002504" form="G?GG?" form_original="[G?]G[G?]" line="1" div_fragment="87" div_subfragment="87.12" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002505" form="δαθελG?" form_original="δαθελ̣[G?]" line="2" div_fragment="87" div_subfragment="87.12" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002506" form="σκέδG?" form_original="σκέδ[G?]" line="3" div_fragment="87" div_subfragment="87.12" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="218" id="218" document_id="0009-001" analysis="manual">
-    <word id="100002507" form="G?" form_original="[G?]" line="1" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002508" form="G?" form_original="[G?]" line="1" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002509" form="G?" form_original="[G?]" line="2" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002510" form="G?" form_original="[G?]" line="2" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002511" form="G?εσθα" form_original="[G?]ε̣σθα" line="3" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002512" form="G?ρποναβαν" form_original="[G?]ρποναβαν" line="4" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002513" form="G?" form_original="[G?]" line="4" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002514" form="G?εσθαι" form_original="[G?]εσθαι" line="6" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002515" form="·" line="6" div_fragment="87" div_subfragment="87.13" lemma="·" postag="u--------" head="0" relation="AuxK"/>
-  </sentence>
-  <sentence struct_id="219" id="219" document_id="0009-001" analysis="manual">
-    <word id="100002516" form="G?" form_original="[G?]" line="6" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002517" form="G?" form_original="[G?]" line="7" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002518" form="G?G" form_original="[G?]G" line="8" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002519" form="G?" form_original="[G?]" line="8" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002520" form="G?" form_original="[G?]" line="9" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002521" form="G?" form_original="[G?]" line="9" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002522" form="G?" form_original="[G?]" line="10" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002523" form="G?" form_original="[G?]" line="10" div_fragment="87" div_subfragment="87.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="220" id="220" document_id="0009-001" analysis="manual">
-    <word id="100002524" form="G?GG?" form_original="[G?]G[G?]" line="1" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002525" form="Gραν" form_original="[̣]Gραν" line="2" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002526" form="G?" form_original="[G?]" line="2" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002527" form="G?G" form_original="[G?]G" line="3" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002528" form="G?" form_original="[G?]" line="3" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002529" form="G?Gαι" form_original="[G?]Gαι" line="4" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002530" form="G?" form_original="[G?]" line="4" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002531" form="G?" form_original="[G?]" line="5" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002532" form="G?" form_original="[G?]" line="6" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002533" form="G?" form_original="[G?]" line="6" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002534" form="G?ν" form_original="[G?]ν" line="7" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002535" form="G?" form_original="[G?]" line="7" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002536" form="G?" form_original="[G?]" line="8" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002537" form="G?" form_original="[G?]" line="9" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002538" form="G?" form_original="[G?]" line="10" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002539" form="G?" form_original="[G?]" line="11" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002540" form="G?G" form_original="[G?]G" line="12" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002541" form="G?" form_original="[G?]" line="13" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002542" form="G?ον" form_original="[G?]ον" line="14" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002543" form="·" line="14" div_fragment="87" div_subfragment="87.14" lemma="·" postag="u--------" head="0" relation="AuxK"/>
-  </sentence>
-  <sentence struct_id="221" id="221" document_id="0009-001" analysis="manual">
-    <word id="100002544" form="G?" form_original="[G?]" line="15" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002545" form="G?" form_original="[G?]" line="16" div_fragment="87" div_subfragment="87.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="222" id="222" document_id="0009-001" analysis="manual">
-    <word id="100002546" form="ρασθαGG?" form_original="ρασθαG[G?]" line="1" div_fragment="87" div_subfragment="87.15" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002547" form="G?ν" form_original="[G?]ν" line="2" div_fragment="87" div_subfragment="87.15" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002548" form="G?" form_original="[G?]" line="2" div_fragment="87" div_subfragment="87.15" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002549" form="G?" form_original="[G?]" line="3" div_fragment="87" div_subfragment="87.15" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002550" form="G?" form_original="[G?]" line="3" div_fragment="87" div_subfragment="87.15" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="223" id="223" document_id="0009-001" analysis="manual">
-    <word id="100002551" form="G?εφιGG?" form_original="[G?]εφι̣G[G?]" line="1" div_fragment="87" div_subfragment="87.16" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002552" form="ασιληGG?" form_original="α̣σιλη̣G[G?]" line="2" div_fragment="87" div_subfragment="87.16" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002553" form="G?εγαδGG?" form_original="[G?]εγαδG[G?]" line="3" div_fragment="87" div_subfragment="87.16" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002554" form="G?GοσGG?" form_original="[G?]GοσG[G?]" line="4" div_fragment="87" div_subfragment="87.16" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="224" id="224" document_id="0009-001" analysis="manual">
-    <word id="100002555" form="G?" form_original="[G?]" line="1" div_fragment="87" div_subfragment="87.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002556" form="δηG?" form_original="[̣]δη[G?]" line="1" div_fragment="87" div_subfragment="87.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002557" form="κωσαG?" form_original="[̣]κ̣ωσα[G?]" line="2" div_fragment="87" div_subfragment="87.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002558" form="G?νGσοιG?" form_original="[G?]νGσοι[G?]" line="3" div_fragment="87" div_subfragment="87.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002559" form="GδηκGG?" form_original="GδηκG[G?]" line="4" div_fragment="87" div_subfragment="87.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002560" form="εσιππG?" form_original="εσ̣ι̣π̣π̣[G?]" line="5" div_fragment="87" div_subfragment="87.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002561" form="G?GαλGG?" form_original="[G?]Gα̣λG[G?]" line="6" div_fragment="87" div_subfragment="87.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002562" form="G?GεσσαG?" form_original="[G?]Gεσσα[G?]" line="7" div_fragment="87" div_subfragment="87.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002563" form="G?GGGG?" form_original="[G?]G[G]G[G?]" line="8" div_fragment="87" div_subfragment="87.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="225" id="225" document_id="0009-001" analysis="manual">
-    <word id="100002564" form="G?G3G?" form_original="[G?]G3[G?]" line="1" div_fragment="87" div_subfragment="87.18" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002565" form="G?ζαGG?" form_original="[G?]ζαG[G?]" line="2" div_fragment="87" div_subfragment="87.18" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002566" form="G" line="3" div_fragment="87" div_subfragment="87.18" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002567" form="G?" form_original="[G?]" line="3" div_fragment="87" div_subfragment="87.18" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002568" form="G?μα" line="4" div_fragment="87" div_subfragment="87.18" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002569" form="υδάG2" form_original="υδάG2[̣]" line="5" div_fragment="87" div_subfragment="87.18" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002570" form="οιδGG?" form_original="οιδG[G?]" line="6" div_fragment="87" div_subfragment="87.18" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002571" form="GτG?" form_original="[G̣]τ[G?]" line="7" div_fragment="87" div_subfragment="87.18" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="226" id="226" document_id="0009-001" analysis="manual">
-    <word id="100002572" form="G?ιοG?" form_original="[G?]ι̣ο[G?]" line="1" div_fragment="87" div_subfragment="87.XIXa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002573" form="G?έδG?" form_original="[G?]έ̣δ[G?]" line="2" div_fragment="87" div_subfragment="87.XIXa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002574" form="G" line="3" div_fragment="87" div_subfragment="87.XIXa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002575" form="κηG?" form_original="κη[G?]" line="3" div_fragment="87" div_subfragment="87.XIXa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002576" form="G?GG?" form_original="[G?]G[G?]" line="4" div_fragment="87" div_subfragment="87.XIXa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="227" id="227" document_id="0009-001" analysis="manual">
-    <word id="100002577" form="G?αGG?" form_original="[G?]αG[G?]" line="1" div_fragment="87" div_subfragment="87.XIXb" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002578" form="έσG?" form_original="έσ̣[G?]" line="2" div_fragment="87" div_subfragment="87.XIXb" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="228" id="228" document_id="0009-001" analysis="manual">
-    <word id="100002579" form="G?τροG?" form_original="[G?]τρο[G?]" line="1" div_fragment="87" div_subfragment="87.20" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002580" form="G?GωGG?" form_original="[G?]GωG[G?]" line="2" div_fragment="87" div_subfragment="87.20" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002581" form="G?GυπGG?" form_original="[G?]GυπG[G?]" line="3" div_fragment="87" div_subfragment="87.20" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002582" form="G?σκαG?" form_original="[G?]σ̣κα̣[G?]" line="4" div_fragment="87" div_subfragment="87.20" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002583" form="G?GG?" form_original="[G?]G[G?]" line="5" div_fragment="87" div_subfragment="87.20" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="229" id="229" document_id="0009-001" analysis="manual">
-    <word id="100002584" form="σκιG?" form_original="σ̣κι[G?]" line="1" div_fragment="87" div_subfragment="87.21" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002585" form="σονGG?" form_original="σ̣ονG[G?]" line="2" div_fragment="87" div_subfragment="87.21" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002586" form="λGG?" form_original="[̣]λ̣G[G?]" line="3" div_fragment="87" div_subfragment="87.21" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002587" form="μαGG?" form_original="μ̣αG[G?]" line="4" div_fragment="87" div_subfragment="87.21" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002588" form="G?πG?" form_original="[G?]π̣[G?]" line="5" div_fragment="87" div_subfragment="87.21" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002589" form="G?δεG?" form_original="[G?]δε[G?]" line="6" div_fragment="87" div_subfragment="87.21" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002590" form="G?GνG?" form_original="[G?]Gν̣[G?]" line="7" div_fragment="87" div_subfragment="87.21" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="230" id="230" document_id="0009-001" analysis="manual">
-    <word id="100002591" form="GενG?" form_original="Gεν̣[G?]" line="1" div_fragment="87" div_subfragment="87.22" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002592" form="GεικGG?" form_original="GεικG[G?]" line="2" div_fragment="87" div_subfragment="87.22" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002593" form="G?αλG?" form_original="[G?]αλ̣[G?]" line="3" div_fragment="87" div_subfragment="87.22" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="231" id="231" document_id="0009-001" analysis="manual">
-    <word id="100002594" form="GψάμG?" form_original="Gψά̣μ[G?]" line="1" div_fragment="87" div_subfragment="87.23" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002595" form="G?εξαG?" form_original="[G?]εξ̣α[G?]" line="2" div_fragment="87" div_subfragment="87.23" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002596" form="G?GαG?" form_original="[G?]Gα[G?]" line="3" div_fragment="87" div_subfragment="87.23" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
+<!-- Fragment 88 -->
   <sentence struct_id="232" id="232" document_id="0009-001" analysis="manual">
     <word id="100002597" form="G?GG?" form_original="[G?]G[G?]" line="1" div_fragment="88a" lemma="G" postag="z--------" head="0" relation="GAP"/>
     <word id="100002598" form="G?ν" form_original="[G?]ν̣" line="2" div_fragment="88a" lemma="G" postag="z--------" head="0" relation="GAP"/>
@@ -2510,210 +2285,7 @@
     <word id="100002685" form="ἐστGG?" form_original="ἐστG[G?]" line="9" div_fragment="88b" lemma="G" postag="z--------" head="0" relation="GAP"/>
     <word id="100002686" form="GχαG?" form_original="[G]χ̣α̣[G?]" line="10" div_fragment="88b" lemma="G" postag="z--------" head="0" relation="GAP"/>
   </sentence>
-  <sentence struct_id="240" id="240" document_id="0009-001" analysis="manual">
-    <word id="100002687" form="G?χG" form_original="[G?]χ̣G" line="1" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002688" form="G?Gντι" form_original="[G?]Gντι" line="2" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002689" form="νG?Gεσει" form_original="ν[G?]Gεσει" line="3" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002690" form="ναG?Gοντων" form_original="να[G?]Gοντων" line="4" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002691" form="ενGG?κυθερηαστρό" form_original="ενG[G?]κυθερηαστρό" line="5" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002692" form="φοσG?G2πτηεναλλοις" form_original="φοσ[G?]G2π̣τ̣ηεναλλοις" line="6" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002693" form="δεθυγG?διτησειρηκετηG?" form_original="δεθυγ̣[G?]διτ̣ησειρηκετη[G?]" line="7" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002694" form="πειθωGG?ησεφωνειημG?" form_original="πειθωG[G?]η̣σεφω̣νειημ[G?]" line="8" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002695" form="τασαλληG?GεαυτησπρG?" form_original="τασαλλη[G?]Gεαυτη̣σπ̣ρ[G?]" line="9" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002696" form="γορευεGύμG?GGθελοισαG2GG?" form_original="γορευεGύμ[G?]G[G]θ̣ε̣λοισα[G2]G[G?]" line="10" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002697" form="G3G?" form_original="G3[G?]" line="11" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002698" form="θικονετρG?ασιν" form_original="θικονετρ[G?]ασιν" line="12" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002699" form="χG?" form_original="χ[G?]" line="12" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002700" form="αμμιαγγG?τιναG?" form_original="αμμι̣αγγ[G?]τινα[G?]" line="13" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002701" form="δαιμGναθG?GοσυνG?" form_original="δαιμ[G]να̣θ̣[G?]Gο̣συν[G?]" line="14" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002702" form="ϊναηG2πεGG?" form_original="ϊναηG2πεG[G?]" line="15" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002703" form="λεγ’οGμμεG?" form_original="λεγ’οGμμε[G?]" line="16" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002704" form="μενGGϊεG?" form_original="μεν[G]Gϊε[G?]" line="17" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002705" form="δηεGπGσGG?G" form_original="δηε[G]π̣GσG[G?]G" line="18" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002706" form="θελετεG?G2φι" form_original="θελετ̣ε̣[G?]G2φι" line="19" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002707" form="ονδτεκG?του" form_original="ονδτεκ[G?]του" line="20" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002708" form="GδυνατG?ειμαι’" form_original="Gδυνατ[G?]ε̣ι̣μαι’" line="21" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002709" form="χερρεσG?καικα" form_original="χερρεσ[G?]καικα" line="22" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002710" form="τϊδιανG?GG?ησκαι" form_original="τϊδιαν[G?]G[G?]η̣σκαι" line="23" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002711" form="προστηG?χθουνG?" form_original="προστη[G?]χ̣θ̣ουν[G?]" line="24" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002712" form="G?" form_original="[G?]" line="24" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002713" form="τGσπροGG?GανυG?" form_original="τ̣[G]σ̣προG[G?]Gανυ[G?]" line="25" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002714" form="πτερυγGG?GατοG?" form_original="π̣τ̣ερυγG[G?]Gατο̣[G?]" line="26" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002715" form="οφησGG?" form_original="ο̣φησG[G?]" line="27" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002716" form="G?" form_original="[G?]" line="27" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002717" form="G?GG?" form_original="[G?]G[G?]" line="28" div_fragment="90" div_subfragment="90.1" div_column="90.1.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002718" form="G?" form_original="[G?]" line="1" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002719" form="GG?" form_original="G[G?]" line="2" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002720" form="ρωχουG?" form_original="ρωχου[G?]" line="3" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002721" form="σασγερασGG?" form_original="σασγε̣ρασG[G?]" line="4" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002722" form="καιγυριννG?" form_original="καιγυρινν[G?]" line="5" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002723" form="ταστοιαυτασGGG2G?" form_original="ταστοιαυτασ̣G[G]G2[G?]" line="6" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002724" form="γωτοκαλλοσεπιετGG?" form_original="γωτοκαλλοσεπιετG[G?]" line="7" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002725" form="μεζοντιγαρηνεμG?" form_original="μεζοντιγαρηνεμ[G?]" line="8" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002726" form="ειναικαιαρετησποG?" form_original="ειναικαιαρετησπο̣[G?]" line="9" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002727" form="λαμηποτελεγειοτιοG?καλλι" form_original="λαμηποτελεγειοτιο[G?]καλλι̣" line="11" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002728" form="ευφημεισθαG?" form_original="ευφημεισθα[G?]" line="11" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002729" form="μοιζεφυρωπνευμαG?" form_original="μοιζεφυρ̣ωπ̣νευμα[G?]" line="12" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002730" form="σοιδανG2οφορητοG?" form_original="σοιδαν[G2]ο̣φορητο[G?]" line="13" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002731" form="G?νονδεκαGG?" form_original="[G?]ν̣ονδεκαG[G?]" line="14" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002732" form="G?ς" form_original="[G?]ς" line="15" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002733" form="παϊτασμG?" form_original="παϊτασμ[G?]" line="15" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002734" form="G?δηνγεγρGG?" form_original="[G?]δ̣ηνγεγρG[G?]" line="16" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002735" form="G?υποανδG?" form_original="[G?]υποανδ[G?]" line="17" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002736" form="G?GιουκευνG?" form_original="[G?]Gιουκευν[G?]" line="18" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002737" form="G?ωαρρεGG?" form_original="[G?]ω̣αρρεG[G?]" line="19" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002738" form="G?χητισG?" form_original="[G?]χ̣ητισ[G?]" line="20" div_fragment="90" div_subfragment="90.1" div_column="90.1.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="241" id="241" document_id="0009-001" analysis="manual">
-    <word id="100002739" form="GυσαGG?" form_original="Gυσα̣G[G?]" line="1" div_fragment="90" div_subfragment="90.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002740" form="GνυναG?" form_original="Gνυνα[G?]" line="2" div_fragment="90" div_subfragment="90.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002741" form="GλαγητG?" form_original="Gλαγητ̣[G?]" line="3" div_fragment="90" div_subfragment="90.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002742" form="G?διατG?" form_original="[G?]δ̣ιατ̣[G?]" line="4" div_fragment="90" div_subfragment="90.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="242" id="242" document_id="0009-001" analysis="manual">
-    <word id="100002743" form="G?GG?" form_original="[G?]G[G?]" line="1" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002744" form="G?GG?" form_original="[G?]G[G?]" line="2" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002745" form="G?" form_original="[G?]" line="3" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002746" form="G?" form_original="[G?]" line="3" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002747" form="G?" form_original="[G?]" line="4" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002748" form="G?" form_original="[G?]" line="4" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002749" form="ουτιGG?" form_original="ο̣υ̣τ̣ι̣G[G?]" line="5" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002750" form="G?ποιηG3τGG?" form_original="[G?]π̣οι̣ηG3τG[G?]" line="6" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002751" form="G?ηθειανGG?" form_original="[G?]ηθ̣εια̣νG[G?]" line="7" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002752" form="G?εινφG?" form_original="[G?]εινφ[G?]" line="8" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002753" form="G?G2ηβGG?" form_original="[G?]G2ηβG[G?]" line="9" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002754" form="G?σλον" form_original="[G?]σλον" line="10" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002755" form="G?" form_original="[G?]" line="10" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002756" form="G?δGGεμονG?" form_original="[G?]δ̣G[G]ε̣μ̣ον[G?]" line="11" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002757" form="G?θωσαGG?" form_original="[G?]θ̣ω̣σαG[G?]" line="12" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002758" form="G?GωμG?" form_original="[G?]Gωμ[G?]" line="13" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002759" form="G?GσουανG?" form_original="[G?]Gσουαν̣[G?]" line="14" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002760" form="G?απαξτουτG?" form_original="[G?]απαξτουτ[G?]" line="15" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002761" form="ουπανταG?" form_original="ο̣υπαντα[G?]" line="16" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002762" form="G?πρωτονG?" form_original="[G?]πρωτον[G?]" line="17" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002763" form="GGοισπροαG?" form_original="G[G]οισπροα[G?]" line="18" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002764" form="G?θανεινG?" form_original="[G?]θ̣ανειν[G?]" line="19" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002765" form="GρεσσονγαG?" form_original="Gρ̣εσσονγα[G?]" line="20" div_fragment="90" div_subfragment="90.3" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="243" id="243" document_id="0009-001" analysis="manual">
-    <word id="100002766" form="G?νομεGGG?" form_original="[G?]νομε[G]G[G?]" line="1" div_fragment="90" div_subfragment="90.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002767" form="G?GταπυνGG?" form_original="[G?]Gταπυ̣ν̣G[G?]" line="2" div_fragment="90" div_subfragment="90.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002768" form="G?μενονϊG?" form_original="[G?]μενονϊ[G?]" line="3" div_fragment="90" div_subfragment="90.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002769" form="νοημμααG?" form_original="ν̣οημμαα[G?]" line="4" div_fragment="90" div_subfragment="90.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002770" form="G?εφεροιG’G?" form_original="[G?]ε̣φεροιG’[G?]" line="5" div_fragment="90" div_subfragment="90.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002771" form="G?G3G?" form_original="[G?]G3[G?]" line="6" div_fragment="90" div_subfragment="90.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002772" form="G?" form_original="[G?]" line="7" div_fragment="90" div_subfragment="90.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002773" form="γG?" form_original="γ̣[G?]" line="7" div_fragment="90" div_subfragment="90.4" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="244" id="244" document_id="0009-001" analysis="manual">
-    <word id="100002774" form="G?G2ι" form_original="[G?]G2ι̣" line="1" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002775" form="G?" form_original="[G?]" line="1" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002776" form="G?χηρι" form_original="[G?]χη̣ρι" line="2" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002777" form="G?" form_original="[G?]" line="2" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002778" form="G?ητα" form_original="[G?]η̣τα" line="3" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002779" form="G?" form_original="[G?]" line="3" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002780" form="G?ησεφο" form_original="[G?]η̣σεφο" line="4" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002781" form="G?" form_original="[G?]" line="4" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002782" form="G?υπολε" form_original="[G?]υπολε̣" line="5" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002783" form="G?" form_original="[G?]" line="5" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002784" form="GοστηG?" form_original="Gοσ̣τη[G?]" line="6" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002785" form="G?λιγαG?" form_original="[G?]λ̣ι̣γα[G?]" line="7" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002786" form="G?ωνπG?" form_original="[G?]ωνπ̣[G?]" line="8" div_fragment="90" div_subfragment="90.5" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="245" id="245" document_id="0009-001" analysis="manual">
-    <word id="100002787" form="G?GειλG?" form_original="[G?]Gειλ[G?]" line="1" div_fragment="90" div_subfragment="90.6" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002788" form="G?GειφGG?" form_original="[G?]GειφG[G?]" line="2" div_fragment="90" div_subfragment="90.6" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002789" form="G?G2G?" form_original="[G?]G2[G?]" line="3" div_fragment="90" div_subfragment="90.6" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="246" id="246" document_id="0009-001" analysis="manual">
-    <word id="100002790" form="G?οτελοσG?" form_original="[G?]οτε̣λοσ̣[G?]" line="1" div_fragment="90" div_subfragment="90.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002791" form="GουκαιGG?" form_original="GουκαιG[G?]" line="2" div_fragment="90" div_subfragment="90.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002792" form="G?ονγαG?" form_original="[G?]ονγα[G?]" line="3" div_fragment="90" div_subfragment="90.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002793" form="G?οτG2G?" form_original="[G?]οτ̣G2[G?]" line="4" div_fragment="90" div_subfragment="90.7" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="247" id="247" document_id="0009-001" analysis="manual">
-    <word id="100002794" form="GηναρG?" form_original="Gηναρ̣[G?]" line="1" div_fragment="90" div_subfragment="90.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002795" form="G?" form_original="[G?]" line="2" div_fragment="90" div_subfragment="90.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002796" form="G?G" form_original="[G?]G" line="3" div_fragment="90" div_subfragment="90.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002797" form="·" line="3" div_fragment="90" div_subfragment="90.8" lemma="·" postag="u--------" head="0" relation="AuxK"/>
-  </sentence>
-  <sentence struct_id="248" id="248" document_id="0009-001" analysis="manual">
-    <word id="100002798" form="G?" form_original="[G?]" line="4" div_fragment="90" div_subfragment="90.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002799" form="GγGG?" form_original="GγG[G?]" line="4" div_fragment="90" div_subfragment="90.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002800" form="G?νερG?" form_original="[G?]ν̣ερ[G?]" line="5" div_fragment="90" div_subfragment="90.8" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="249" id="249" document_id="0009-001" analysis="manual">
-    <word id="100002801" form="G?GG2GG?" form_original="[G?]G[G2]G[G?]" line="1" div_fragment="90" div_subfragment="90.9" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002802" form="G?αυτGG?" form_original="[G?]αυτG[G?]" line="2" div_fragment="90" div_subfragment="90.9" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002803" form="πιαπGG?" form_original="πιαπG[G?]" line="3" div_fragment="90" div_subfragment="90.9" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002804" form="G?GτιαG?" form_original="[G?]Gτια̣[G?]" line="4" div_fragment="90" div_subfragment="90.9" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="250" id="250" document_id="0009-001" analysis="manual">
-    <word id="100002805" form="G?GσγαρG?" form_original="[G?]Gσγαρ[G?]" line="1" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002806" form="G?ηκετGG?" form_original="[G?]ηκετG[G?]" line="2" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002807" form="G?λατωσGG?" form_original="[G?]λατωσG[G?]" line="3" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002808" form="GπερισαG?" form_original="Gπερισα[G?]" line="4" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002809" form="G?GιθυμG?" form_original="[G?]Gιθυμ̣[G?]" line="5" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002810" form="G?GτοτηG3G?οσφησινα" form_original="[G?]GτοτηG3[G?]ο̣σφησινα" line="7" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002811" form="G?" form_original="[G?]" line="7" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002812" form="G?νυποτου" form_original="[G?]νυ̣ποτου" line="8" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002813" form="G?" form_original="[G?]" line="8" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002814" form="G?GG?" form_original="[G?]G[G?]" line="9" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002815" form="G?υG?" form_original="[G?]υ[G?]" line="10" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002816" form="G?GιG?" form_original="[G?]Gι[G?]" line="11" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002817" form="Gαμενην" line="12" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002818" form="G?" form_original="[G?]" line="12" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002819" form="καιχαριεGG?" form_original="καιχαριε̣G[G?]" line="13" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002820" form="τηιωδηλεG?" form_original="τ̣ηιωδηλε[G?]" line="14" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002821" form="G?ατθιδοσG?" form_original="[G?]ατθιδοσ̣[G?]" line="15" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002822" form="G?αυτησG?" form_original="[G?]αυτησ̣[G?]" line="16" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002823" form="G?GηβαθυG?" form_original="[G?]Gηβ̣α̣θυ̣[G?]" line="17" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002824" form="G?GG?" form_original="[G?]G[G?]" line="18" div_fragment="90" div_subfragment="90.Xa" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="251" id="251" document_id="0009-001" analysis="manual">
-    <word id="100002825" form="G?GG?" form_original="[G?]G[G?]" line="1" div_fragment="90" div_subfragment="90.Xb" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002826" form="θιγλυG?" form_original="θιγλυ[G?]" line="2" div_fragment="90" div_subfragment="90.Xb" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002827" form="ταενG?" form_original="ταεν[G?]" line="3" div_fragment="90" div_subfragment="90.Xb" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002828" form="G?σG3G?" form_original="[G?]σ̣G3[G?]" line="4" div_fragment="90" div_subfragment="90.Xb" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="252" id="252" document_id="0009-001" analysis="manual">
-    <word id="100002829" form="G?νανχGG?" form_original="[G?]νανχG[G?]" line="1" div_fragment="90" div_subfragment="90.11" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002830" form="GπληGG?" form_original="Gπλ̣η̣G[G?]" line="2" div_fragment="90" div_subfragment="90.11" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="253" id="253" document_id="0009-001" analysis="manual">
-    <word id="100002831" form="ριανηκGG?" form_original="ρ̣ιαν̣η̣κG[G?]" line="1" div_fragment="90" div_subfragment="90.12" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002832" form="G?υσταθεισG?" form_original="[G?]υσ̣ταθει̣σ̣[G?]" line="2" div_fragment="90" div_subfragment="90.12" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002833" form="GωGναιγG?" form_original="Gω̣Gναιγ̣[G?]" line="3" div_fragment="90" div_subfragment="90.12" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="254" id="254" document_id="0009-001" analysis="manual">
-    <word id="100002834" form="GνρG?" form_original="Gνρ̣[G?]" line="1" div_fragment="90" div_subfragment="90.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002835" form="GαιγιG?" form_original="Gαιγι̣[G?]" line="2" div_fragment="90" div_subfragment="90.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002836" form="G?νεαG?" form_original="[G?]νεα[G?]" line="3" div_fragment="90" div_subfragment="90.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002837" form="υχησνG?" form_original="υ̣χησν̣[G?]" line="4" div_fragment="90" div_subfragment="90.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002838" form="G?σιας" form_original="[G?]σ̣ι̣ας" line="5" div_fragment="90" div_subfragment="90.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002839" form="G?" form_original="[G?]" line="5" div_fragment="90" div_subfragment="90.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002840" form="G?ιωG?" form_original="[G?]ι̣ω̣[G?]" line="6" div_fragment="90" div_subfragment="90.13" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="255" id="255" document_id="0009-001" analysis="manual">
-    <word id="100002841" form="GG?" form_original="G[G?]" line="1" div_fragment="90" div_subfragment="90.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002842" form="G?ταιταG?" form_original="[G?]ταιτα̣[G?]" line="2" div_fragment="90" div_subfragment="90.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002843" form="εσητοιιτG?" form_original="ε̣σητοιιτ[G?]" line="3" div_fragment="90" div_subfragment="90.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002844" form="G?τουτιG?" form_original="[G?]τουτι̣[G?]" line="4" div_fragment="90" div_subfragment="90.14" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="256" id="256" document_id="0009-001" analysis="manual">
-    <word id="100002845" form="G?ανGG?" form_original="[G?]ανG[G?]" line="1" div_fragment="90" div_subfragment="90.15" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002846" form="G?στηGG?" form_original="[G?]στηG[G?]" line="2" div_fragment="90" div_subfragment="90.15" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="257" id="257" document_id="0009-001" analysis="manual">
-    <word id="100002847" form="G?δεμG?" form_original="[G?]δεμ[G?]" line="1" div_fragment="90" div_subfragment="90.16" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002848" form="υν’οτG?" form_original="υν’οτ̣[G?]" line="2" div_fragment="90" div_subfragment="90.16" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
-  <sentence struct_id="258" id="258" document_id="0009-001" analysis="manual">
-    <word id="100002849" form="G?ληG?" form_original="[G?]λη̣[G?]" line="1" div_fragment="90" div_subfragment="90.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002850" form="G?GραG?" form_original="[G?]Gρα[G?]" line="2" div_fragment="90" div_subfragment="90.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002851" form="εσθGG?" form_original="εσθG[G?]" line="3" div_fragment="90" div_subfragment="90.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002852" form="G?τελGG?" form_original="[G?]τελG[G?]" line="4" div_fragment="90" div_subfragment="90.17" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
+  <!-- Fragment 91 -->
   <sentence struct_id="259" id="259" document_id="0009-001" analysis="manual">
     <word id="100002853" form="ἀσαροτέρας" line="1" div_fragment="91" lemma="ἀσηρός" postag="a-s---fgc" head="100002858" relation="OCOMP"/>
     <word id="100002854" form="οὐδάμα" line="1" div_fragment="91" lemma="οὐδαμός" postag="p-p---na-" head="100002855" relation="ADV"/>
@@ -2744,14 +2316,7 @@
     <word id="100002876" form="G?" form_original="[G?]" line="15" div_fragment="92" lemma="G" postag="z--------" head="0" relation="GAP"/>
     <word id="100002877" form="πG?" form_original="π[G?]" line="16" div_fragment="92" lemma="G" postag="z--------" head="0" relation="GAP"/>
   </sentence>
-  <sentence struct_id="261" id="261" document_id="0009-001" analysis="manual">
-    <word id="100002878" form="G?ισG3εγ" form_original="[G?]ισG3εγ" line="1" div_fragment="93" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002879" form="G?ω" form_original="[G?]ω" line="2" div_fragment="93" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002880" form="G?μοις" form_original="[G?]μοις" line="3" div_fragment="93" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002881" form="G?αλιαν" form_original="[G?]α̣λιαν̣" line="4" div_fragment="93" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100002882" form="ἔχω" form_original="ἔ̣χω" line="4" div_fragment="93" lemma="ἔχω" postag="v1spia---" head="0" relation="PRED"/>
-    <word id="100002883" form="παρθένων" line="5" div_fragment="93" lemma="παρθένος" postag="n-p---fg-" head="0" relation="ExD"/>
-  </sentence>
+  <!-- Fragment 94 -->
   <sentence struct_id="262" id="262" document_id="0009-001" analysis="manual">
     <word id="100002884" form="τεθνάκην" line="1" div_fragment="94" lemma="θνῄσκω" postag="v--rna---" head="100002887" relation="OBJ"/>
     <word id="100002885" form="δ’" line="1" div_fragment="94" lemma="δέ" postag="b--------" head="100002887" relation="AuxY"/>
@@ -3071,20 +2636,7 @@
     <word id="100003167" form="G?ερον" form_original="[G?]ερον" line="36" div_fragment="96" lemma="G" postag="z--------" head="0" relation="GAP"/>
     <word id="100003168" form="ἰξομG?" form_original="ἰξο[μG?]" line="36" div_fragment="96" lemma="G" postag="z--------" head="0" relation="GAP"/>
   </sentence>
-  <sentence struct_id="277" id="277" document_id="0009-001" analysis="manual">
-    <word id="100003169" form="αερG?" form_original="αερ[G?]" line="1" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003170" form="περαG?" form_original="περα[G?]" line="2" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003171" form="κυG?" form_original="κυ̣[G?]" line="3" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003172" form="σινG?" form_original="σιν[G?]" line="4" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003173" form="συδ’G2G?" form_original="συδ’G2[G?]" line="5" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003174" form="τουG2G?" form_original="τ̣ο̣υG2[G?]" line="6" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003175" form="Gυπνου" form_original="[Gυπνου]" line="6" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003176" form="καλλεαυG?" form_original="κ̣αλ̣λεα̣υ[G?]" line="7" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003177" form="περιπτεραG?" form_original="περιπτερα[G?]" line="8" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003178" form="G?ανG?" form_original="[G?]αν[G?]" line="9" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003179" form="GνιελεφανG?" form_original="[G]νιελεφαν̣[G?]" line="10" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003180" form="G2ρπασκαGG?" form_original="[G2]ρ̣πασκ̣α̣G[G?]" line="11" div_fragment="97" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
+  <!-- Fragment 98 -->
   <sentence struct_id="278" id="278" document_id="0009-001" analysis="manual">
     <word id="100003181" form="G2Gθος" form_original="[G2]Gθος" line="1" div_fragment="98a" lemma="G" postag="z--------" head="0" relation="GAP"/>
     <word id="100003182" form="·" line="1" div_fragment="98a" lemma="·" postag="u--------" head="0" relation="AuxK"/>
@@ -3180,66 +2732,7 @@
     <word id="100003258" form="αἶνα" line="10" div_fragment="98b" lemma="αἰνός" postag="n-s---ma-" head="100003259" relation="OBJ"/>
     <word id="100003259" form="διέρρυεν" form_original="διέρρυε̣[ν]" line="10" div_fragment="98b" lemma="διαρρέω" postag="v3siia---" head="0" relation="PRED"/>
   </sentence>
-  <sentence struct_id="286" id="286" document_id="0009-001" analysis="manual">
-    <word id="100003260" form="GGγαG2εδαβαιοG?Gα" form_original="[G]GγαG2εδαβαιο̣[G?]Gα" line="1" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003261" form="GGοιπωλυανακτG2αG2G?" form_original="G[G]οιπωλυανακτ[G2]αG2[G?]" line="2" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003262" form="G3αισσαμιασιGιεGGτοισG4G" form_original="G3αισσαμιασιGι̣εG[G]το̣ισG4[G]" line="3" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003263" form="χορδαῖσι" line="4" div_fragment="99" div_column="99.1" lemma="χορδή" postag="n-p---fd-" head="0" relation="ExD"/>
-    <word id="100003264" form="διὰ" line="4" div_fragment="99" div_column="99.1" lemma="διά" postag="r--------" head="0" relation="AuxP"/>
-    <word id="100003265" form="κρέκην" line="4" div_fragment="99" div_column="99.1" lemma="κρέκω" postag="v--pna---" head="100003264" relation="ExD"/>
-    <word id="100003266" form="ολισβGδοκοις" form_original="ο̣λ̣ι̣σ̣β̣Gδοκο̣ι̣ς̣" line="5" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003267" form="περκαθG4ενος" form_original="περ̣καθG4ενος" line="5" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003268" form="G2ουGG2σιφιλοφG2νως" form_original="G2ουG[G2]σιφιλοφ[G2]νως" line="6" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003269" form="G4δεGελισGGGαιπρGτανεως" form_original="G4δεGελισG[G]GαιπρGτ̣ανε̣ως" line="7" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003270" form="G?G2οσδεδιοG2ωG" form_original="[G?]G2οσδεδιο[G2]ωG" line="8" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003271" form="G?Gυαλωδ’GGG2ενητεG2GχG2" form_original="[G?]Gυαλ̣ωδ’G[G]G2ε̣νη̣τ̣ε̣[G2]GχG2" line="9" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003272" form="G?GεκαιδιG2παϊG" form_original="[G?]Gεκα̣ιδ̣ι̣[G2]παϊ[G]" line="10" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003273" form="G?G2εG3GεπιβοργιανG?" form_original="[G?]G2εG3[G]επιβ̣ο̣ρ̣για̣ν[G?]" line="11" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003274" form="G?GGϋλGδηλιπων" form_original="[G?]G[G]ϋλ̣Gδ̣ηλιπ̣ων" line="12" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003275" form="G?GενχρGGτGριον" form_original="[G?]Gε̣ν̣χ̣ρ̣G[G]τ̣Gριον" line="13" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003276" form="G?GG?GευμεσG2GGων" form_original="[G?]G[G?]Gε̣υμεσ̣[G2]G[G]ων" line="14" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003277" form="G?G4G5" form_original="[G?]G4[G5]" line="15" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003278" form="G?G6αG2εραις" form_original="[G?]G6α[G2]ε̣ραις" line="16" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003279" form="τG?" form_original="τ[G?]" line="17" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003280" form="G?ρσανονGG2ργιαν" form_original="[G?]ρ̣σανον[G]G2ργια̣ν" line="18" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003281" form="G?υσομεν" form_original="[G?]υ̣σομεν" line="19" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003282" form="G?" form_original="[G?]" line="19" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003283" form="G?νϋμνεG?" form_original="[G?]νϋμνε[G?]" line="20" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003284" form="καG?εναGφοGG3νGαδελφέαν" form_original="κ̣α̣[G?]ε̣να̣[G]φοG[G3]νGαδελφέαν" line="21" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003285" form="ωσπαιG?GιοGG3GG?" form_original="ωσπαι[G?]Gιο̣G[G3]G[G?]" line="22" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003286" form="GυτισδεG3κειGθεληG?" form_original="Gυτισδε̣[G3]κει̣Gθε̣λ̣η[G?]" line="23" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003287" form="δειχνυσG3εδηυτεG2λυG2ακτιδαν" form_original="δει̣χ̣ν̣υσ[G3]εδηυτεG2λ̣υG2ακτιδαν" line="24" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003288" form="τὸν" line="25" div_fragment="99" div_column="99.1" lemma="ὁ" postag="l-s---ma-" head="0" relation="ExD"/>
-    <word id="100003289" form="μαργονονG" form_original="μαρ̣γον̣ον̣G" line="25" div_fragment="99" div_column="99.1" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003290" form="εἶξαι" form_original="ε̣ἶξα̣ι̣" line="25" div_fragment="99" div_column="99.1" lemma="εἴκω" postag="v--ana---" head="100003291" relation="OBJ"/>
-    <word id="100003291" form="θέλω" line="25" div_fragment="99" div_column="99.1" lemma="ἐθέλω" postag="v1spia---" head="0" relation="PRED"/>
-    <word id="100003292" form="G2στοσGG?" form_original="G2στ̣ο̣σG[G?]" line="1" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003293" form="ϝG2παG?" form_original="ϝG2πα[G?]" line="2" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003294" form="ουκGν" form_original="ο̣υκ̣Gν" line="3" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003295" form="κορωνισωνηρG?" form_original="κορω̣νισωνηρ[G?]" line="4" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003296" form="καιφαιGG?" form_original="καιφαιG[G?]" line="5" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003297" form="ταισπαGG?" form_original="ταισπαG[G?]" line="6" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003298" form="ακρωδG?" form_original="ακρωδ[G?]" line="7" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003299" form="φοιταιGG?" form_original="φοιταιG[G?]" line="8" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003300" form="GGταισεG?" form_original="[G]Gτ̣αισε[G?]" line="9" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003301" form="G?G2G?" form_original="[G?]G2[G?]" line="10" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003302" form="ξύσαG?" form_original="ξ̣ύσα[G?]" line="11" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003303" form="αυτανεG?" form_original="αυτανε[G?]" line="12" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003304" form="αγκωναG?" form_original="αγκωνα[G?]" line="13" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003305" form="εκπάιϊσ’οG?" form_original="εκπάιϊσ’ο[G?]" line="14" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003306" form="ουτοG?" form_original="ουτο[G?]" line="15" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003307" form="τανG?" form_original="ταν[G?]" line="16" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003308" form="ωσδG?" form_original="ωσδ[G?]" line="17" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003309" form="αιμ’οGG?" form_original="αιμ’οG[G?]" line="18" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003310" form="πίκGG?" form_original="πίκG[G?]" line="19" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003311" form="G?" form_original="[G?]" line="20" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003312" form="G2σGG?" form_original="[G2]σG[G?]" line="21" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003313" form="ευοGδαGG?" form_original="ευο[G]δαG[G?]" line="22" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003314" form="αυαδεσG?" form_original="αυαδεσ[G?]" line="23" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003315" form="κακπτGG?" form_original="κακπτG[G?]" line="24" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003316" form="ωπαιδG?" form_original="ωπαιδ[G?]" line="25" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003317" form="ημανGG?" form_original="ημανG[G?]" line="26" div_fragment="99" div_column="99.2" lemma="G" postag="z--------" head="0" relation="GAP"/>
-  </sentence>
+  <!-- Fragment 100 -->
   <sentence struct_id="287" id="287" document_id="0009-001" analysis="manual">
     <word id="100003318" form="ἀμφὶ" line="1" div_fragment="100" lemma="ἀμφί" postag="r--------" head="100003323" relation="AuxP"/>
     <word id="100003319" form="δ’" line="1" div_fragment="100" lemma="δέ" postag="b--------" head="100003323" relation="AuxY"/>
@@ -3642,18 +3135,7 @@
     <word id="100003644" form="ὀ" line="1" speaker="παρθενία" div_fragment="117" lemma="ὁ" postag="l-s---mn-" head="100003645" relation="ATR"/>
     <word id="100003645" form="γάμβρος" line="1" speaker="παρθενία" div_fragment="117" lemma="γάμβρος" postag="n-s---mn-" head="100003642" relation="SBJ"/>
   </sentence>
-  <sentence struct_id="317" id="317" document_id="0009-001" analysis="manual">
-    <word id="100003646" form="ἄγι" line="1" speaker="παρθενία" div_fragment="118" lemma="ἄγω" postag="v2spma---" head="0" relation="PRED"/>
-    <word id="100003647" form="†" line="1" speaker="παρθενία" div_fragment="118" lemma="†" postag="u--------" head="0" relation="AuxG"/>
-    <word id="100003648" form="†" line="1" speaker="παρθενία" div_fragment="118" lemma="†" postag="u--------" head="0" relation="AuxG"/>
-    <word id="100003649" form="χέλυ" line="1" speaker="παρθενία" div_fragment="118" lemma="χέλυς" postag="n-s---fv-" head="100003646" relation="ExD"/>
-    <word id="100003650" form="δῖα" line="1" speaker="παρθενία" div_fragment="118" lemma="δῖος" postag="a-s---fv-" head="100003649" relation="ATR"/>
-    <word id="100003651" form="†" line="1" speaker="παρθενία" div_fragment="118" lemma="†" postag="u--------" head="0" relation="AuxG"/>
-    <word id="100003652" form="†" line="1" speaker="παρθενία" div_fragment="118" lemma="†" postag="u--------" head="0" relation="AuxG"/>
-    <word id="100003653" form="φωνάεσσα" line="2" speaker="παρθενία" div_fragment="118" lemma="φωνήεις" postag="a-s---fv-" head="100003649" relation="ATR"/>
-    <word id="100003654" form="†" line="2" speaker="παρθενία" div_fragment="118" lemma="†" postag="u--------" head="0" relation="AuxG"/>
-    <word id="100003655" form="†" line="2" speaker="παρθενία" div_fragment="118" lemma="†" postag="u--------" head="0" relation="AuxK"/>
-  </sentence>
+  <!-- Fragment 119 -->
   <sentence struct_id="318" id="318" document_id="0009-001" analysis="manual">
     <word id="100003656" form="αἰμιτύβιον" line="1" speaker="παρθενία" div_fragment="119" lemma="ἡμιτύβιον" postag="n-s---na-" head="1000000045" relation="OBJ"/>
     <word id="100003657" form="στάλασσον" line="1" speaker="παρθενία" div_fragment="119" lemma="σταλάσσω" postag="v-sppana-" head="100003656" relation="ATR"/>
@@ -3909,12 +3391,7 @@
     <word id="100003853" form="ὀμπέτασον" line="2" speaker="παρθενία" div_fragment="138" lemma="ὀναπετάννυμι" postag="v2sama---" head="100003849" relation="PRED_CO"/>
     <word id="100003854" form="χάριν" line="2" speaker="παρθενία" div_fragment="138" lemma="χάρις" postag="n-s---fa-" head="100003853" relation="OBJ"/>
   </sentence>
-  <sentence struct_id="340" id="340" document_id="0009-001" analysis="manual">
-    <word id="100003855" form="θέοι" line="1" speaker="παρθενία" div_fragment="139" lemma="θεός" postag="n-p---mn-" head="0" relation="ExD"/>
-    <word id="100003856" form="δG3GνεσωGG3GτικαδακG3" form_original="δ[G3]GνεσωG[G3]Gτι̣καδακ[G3]" line="1" speaker="παρθενία" div_fragment="139" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003857" form="θεGGGηλGG3G?ηλαG6" form_original="θ̣ε̣[G]G[G]η̣λ̣[G]G3[G?]ηλα[G6]" line="2" speaker="παρθενία" div_fragment="139" lemma="G" postag="z--------" head="0" relation="GAP"/>
-    <word id="100003858" form="." form_original="[.]" line="2" speaker="παρθενία" div_fragment="139" lemma="." postag="u--------" head="0" relation="AuxK"/>
-  </sentence>
+  <!-- Fragment 140 -->
   <sentence struct_id="341" id="341" document_id="0009-001" analysis="manual">
     <word id="100003859" form="κατθναίσκει" form_original="κατθνα&lt;ί&gt;σκει" line="1" speaker="παρθενία" div_fragment="140a" lemma="καταθνῄσκω" postag="v3spia---" head="0" relation="PRED"/>
     <word id="100003860" form="," line="1" speaker="παρθενία" div_fragment="140a" lemma="," postag="u--------" head="0" relation="AuxX"/>
