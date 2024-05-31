@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Julia Balbilla, Epigram 2 (29)</title>
+                <editor xml:id="gb">Gabriel Bodard</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Institute of Classical Studies, University of London</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><msName>Bernand 29</msName></msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc><support><p>Colossus of Memnon (northernmost, or right-hand, of two Colossi of Amenhotep III).</p>
+                                <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/241">Statue</objectType>
+                                <material ref="https://www.eagle-network.eu/voc/material/lod/51.html">Quartzite sandstone</material>
+                                <dimensions><height unit="metre" precision="low">18</height></dimensions>
+                            </support></supportDesc>
+                            <layoutDesc><layout>Incised into the stone on the left leg.</layout></layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote></handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when="0130" period="http://n2t.net/ark:/99152/p077pzfwxfr">130 C.E.</origDate>
+                            <origPlace ref="https://pleiades.stoa.org/places/188894567" xml:id="origplace">Mortuary Temple of Amenhotep III,
+                                <placeName ref="https://pleiades.stoa.org/places/786067">Thebes</placeName>,
+                                <placeName ref="https://pleiades.stoa.org/places/766">Egypt</placeName>.</origPlace>
+                        </origin>
+                        <provenance type="found" sameAs="#origplace">In situ.</provenance>
+                        <provenance type="observed" sameAs="#origplace">In situ.</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile><surface/></facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><w>ὅτε</w> <w>σὺν</w> <w lemma="ὁ">τῇ</w> <persName type="emperor"><name>Σεβαστῇ</name> <name>Σαβείνη<lb
+                    n="2" break="no"/>ι</name></persName> <w>ἐγενόμην</w> <w>παρὰ</w> <w lemma="ὁ">τῷ</w> <persName type="divine"><name>Μέμνονι</name></persName>.
+                </ab>
+                <lg met="elegaic">
+                    <l n="1" met="hexameter" real="+++--+|++--+++-">
+                        <lb n="3"/><persName type="divine"><name>Αὔως</name></persName> <w>καὶ</w> <w>γεράρω</w>, <persName type="divine"><name>Μέμνον</name></persName>, <w lemma="παῖς">πάϊ</w> <persName type="divine"><name>Τιθώνοιο</name></persName>,</l>
+                    <l n="2" met="pentameter" real="+++++|+--+--+">
+                        <lb n="4"/><placeName><w>Θηβάας</w></placeName> <w>θάσσων</w> <w>ἄντα</w> <persName type="divine"><name>Δίος</name></persName> <w lemma="πόλις">πόλιος</w>,</l>
+                    <l n="3" met="hexameter" real="+--+--+|++--+--++">
+                        <lb n="5"/><w>ἢ</w> <persName type="ruler"><name>Ἀμένωθ</name></persName>, <w lemma="βασιλεύς">βασίλευ</w> <placeName><w>Αἰγύπτιε</w></placeName>, <w lemma="τώς">τὼς</w> <w>ἐνέποισιν</w></l>
+                    <l n="4" met="pentameter" real="+++++|+--+--+">
+                        <lb n="6"/><w>ἴρηες</w> <w>μύθων</w> <w lemma="ὁ">τῶν</w> <w>παλάων</w> <w>ἴδριες</w>,</l>
+                    <l n="5" met="hexameter" real="+--+++|++++--++">
+                       <lb n="7"/><w>χαῖρε</w>, <w lemma="καί">καὶ</w> <w lemma="αὐδάω">αὐδάσαις</w> <w>πρόφρων</w> <w lemma="ἀσπάζομαι">ἀσπά<unclear>σδ</unclear>ε<supplied reason="lost">ο</supplied></w> <w><supplied reason="lost">κ</supplied>αὔτ<supplied reason="lost">αν</supplied></w></l>
+                    <l n="6" met="pentameter" real="+++--+|+--+--+">
+                        <lb n="8"/><w lemma="ὁ">τὰν</w> <w lemma="σέμνη">σέμναν</w> <w lemma="ἄλοχος">ἄλοχον</w> <w>κοιράνω</w> <persName type="ruler"><name>Ἀδριάνω</name></persName>.</l>
+                    <l n="7" met="hexameter" real="+++++-|-+--+--++">
+                        <lb n="9"/><w>γλῶσσαν</w> <w lemma="μέν">μέν</w> <w>τοι</w> <w lemma="τέμνω">τμᾶξε</w> <w lemma="καί"><supplied reason="lost">κ</supplied>αὶ</w> <w lemma="οὖς">ὤατα</w> <w lemma="βάρβαρος">βάρβαρ<unclear>ος</unclear></w> <w lemma="ἀνήρ">ἄνηρ</w>,</l>
+                    <l n="8" met="pentameter" real="+++--+|+--+--+">
+                        <lb n="10"/><persName type="ruler" nymRef="Καμβύσης"><name>Καμβύσαις</name></persName> <w lemma="ἄθεος">ἄθεος</w>· <w lemma="ὁ">τῶ</w> <w lemma="ἄρα">ῥα</w> <w lemma="λύγρος">λύγρῳ</w> <w lemma="θάνατος">θα<unclear>ν</unclear>άτῳ</w></l>
+                    <l n="9" met="hexameter" real="+++++|++--+--++">
+                        <lb n="11"/><w>δῶκέν</w> <w>τοι</w> <w>ποίναν</w> <w>τὤτωι</w> <w>ἅκ<supplied reason="lost">ρῳ</supplied></w> <w>ἄορι</w> <w>πλάγεις</w></l>
+                    <l n="10" met="pentameter" real="+++++|+--+--+">
+                        <lb n="12"/><w lemma="ὁ">τῷ</w> <w>νήλας</w> <persName type="divine"><name>Ἆπιν</name></persName> <w>κάκτανε</w> <w lemma="ὁ">τὸν</w> <w>θέϊον</w>.</l>
+                    <l n="11" met="hexameter" real="+--+--+-|-+--+--+-">
+                        <lb n="13"/><w lemma="ἀλλά">ἀλλ’</w> <w lemma="ἐγώ">ἔγω</w> <w lemma="οὐ">οὐ</w> <w>δοκίμωμι</w> <w>σέθεν</w> <w>τόδ’</w> <w><unclear>ὄλ</unclear>εσθ’</w> <w><unclear>ἂ</unclear>ν</w> <w>ἄγαλμα</w>,</l>
+                    <l n="12" met="pentameter" real="+++--+|+--+--+">
+                        <lb n="14"/><w lemma="ψυχή">ψύχαν</w> <w lemma="δέ">δ’</w> <w lemma="ἀθάνατος">ἀθανάταν</w> <w lemma="λοῖπος">λοί<unclear>πον</unclear></w> <w>ἔσω<unclear>σα</unclear></w> <w lemma="νόος">νόῳ</w>.</l>
+                    <l n="13" met="hexameter" real="+--+--+|--+++--+-">
+                        <lb n="15"/><w>εὐσέβεες</w> <w lemma="γάρ">γὰρ</w> <w lemma="ἐγώ">ἔμοι</w> <w lemma="γίγνομαι">γένεται</w> <w>πάπποι</w> <w lemma="τε">τ’</w> <w lemma="γίγνομαι">ἐγέν<unclear>ο</unclear>ντο</w>,</l>
+                    <l n="14" met="pentameter" real="+++--+|+--+--+">
+                        <lb n="16"/><persName type="ruler"><name>Βάλβιλλός</name></persName> <w>τ’</w> <w lemma="ὁ">ὀ</w> <w lemma="σόφος">σόφος</w> <w>κ’</w> <persName type="ruler"><name>Ἀντίοχος</name></persName> <w lemma="βασιλεύς">βασίλευς</w>,</l>
+                    <l n="15" met="hexameter" real="+++--+|++--+--++">
+                        <lb n="17"/><persName type="ruler"><name>Βάλβιλλος</name></persName> <w>γενέταις</w> <w lemma="μήτηρ">μᾶτρος</w> <w>βασιλήϊδος</w> <w>ἄμμα<unclear>ς</unclear></w>,</l>
+                    <l n="16" met="pentameter" real="+--+--+|+--+--+">
+                        <lb n="18"/><w lemma="ὁ">τῶ</w> <w lemma="πατήρ">πάτ<unclear>ε</unclear>ρος</w> <w lemma="δέ">δὲ</w> <w lemma="πατήρ">πάτηρ</w> <persName type="ruler"><name>Ἀντίοχος</name></persName> <w lemma="βασιλεύς">βασίλευς</w>·</l>
+                    <l n="17" met="hexameter" real="+++--+|++--+--++">
+                        <lb n="19"/><w>κήνων</w> <w lemma="ἐκ">ἐκ</w> <w>γενέας</w> <w lemma="καὶ ἐγώ">κἄγω</w> <w lemma="λόχος">λόχον</w> <w>αἶμα</w> <w lemma="ὁ">τὸ</w> <w lemma="καλός">κᾶλον</w>,</l>
+                    <l n="18" met="pentameter" real="+++--+|+--+--+">
+                        <lb n="20"/><persName type="ruler"><name>Βαλβίλλας</name></persName> <w lemma="δέ">δ’</w> <w lemma="ἐγώ">ἔμεθεν</w> <w>γρόπτα</w> <w>τάδ’</w> <w>εὐσέβεος</w>.</l>
+                </lg>
+            </div>
+            <div type="translation" xml:lang="en" resp="#gb">
+                <p>When I, with Augusta Sabina, came before Memnon.</p>
+                <p>O Memnon, child of Eos and elder Tithonos, sitting opposite Zeus’ city of Thebes—or Amenoth, Egyptian king, as the priests who know the ancient stories tell—greetings, and by singing kindly welcome also the revered wife of Emperor Hadrian herself. A barbarian man, godless Kambyses, cut off your tongue and your ears; 
+                <!-- … --></p>
+            </div>
+            <div type="translation" xml:lang="fr" source="#aeb1960">
+                <p>« Quand, en compagnie de l'Auguste Sabine, j'étais auprès de Memnon : Toi qui es le fils de l'Aurore, ô Memnon, et du vénérable Tithon, et qui es assis en face de la ville thébaine de Zeus, ou bien toi Aménoth, roi égyptien, à ce que rapportent les prêtres instruits des récits anciens, reçois mon salut, et, en chantant, accueille favorablement, à son tour, l'épouse vénérable de l'Empereur Hadrien. Ta langue a été coupée, ainsi que tes oreilles, par un homme barbare, l'impie Cambyse. Certes, par sa mort lamentable, il en fut puni, frappé de la même pointe d'epée qui lui avait servi à tuer impitoyablement le divin Apis. Mais moi, je ne pense pas que ta statue puisse périr, et j'ai désormais sauvé et immortalisé ton âme par mon ésprit. Pieux, en effet, furent mes parents et mes aïeux, Balbillus le Sage, et le roi Antiochos, Balbillus, père de ma mère de sang royal, et le roi Antiochos, père de mon père. C'est de leur race que je tire mon noble sang, et ces vers sont de moi, Balbilla, la pieuse. »</p>
+            </div>
+            <div type="translation" xml:lang="it" source="#ac2011">
+                <p>Quando insieme con la venerabile Sabina fui al cospetto di Memnone.</p>
+                <p>
+                    <lb n="1"/>Oh Memnone, figlio di Aurora e di Titono antico, 
+                    <lb n="2"/>tu che siedi di fronte a Tebe, città di Zeus, 
+                    <lb n="3"/>o Amenoth, re egizio, come raccontano 
+                    <lb n="4"/>i sacerdoti esperti di antichi racconti, 
+                    <lb n="5"/>salve, e benevolo accogli, parlando, anche lei 
+                    <lb n="6"/>la veneranda consorte dell' Augusto Adriano. 
+                    <lb n="7"/>La lingua certamente tagliò e le orecchie un uomo barbaro, 
+                    <lb n="8"/>Cambise l'empio: in tal modo di una morte che reca sventure 
+                    <lb n="9"/>pagò certamente il fio, colpito dalla stessa punta di spada 
+                    <lb n="10"/>con la quale aveva ucciso senza pieta il divino Api. 
+                    <lb n="11"/>Ma io non penso che questa tua statua possa perire, 
+                    <lb n="12"/>e la (tua) anima immortale dunque percepisco dentro. 
+                    <lb n="13"/>Infatti i miei antenati e chi mi generò furono pii, 
+                    <lb n="14"/>Balbillo il saggio e il re Antioco, 
+                    <lb n="15"/>Balbillo, padre di mia madre di stirpe regale, 
+                    <lb n="16"/>e il padre di mio padre Antioco il re: 
+                    <lb n="17"/>dalla stirpe di questi anche io ho tratto il nobile sangue, 
+                    <lb n="18"/>e miei, di Balbilla la pia, sono questi versi.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl xml:id="letronne1848"><author>Antoine Jean Letronne</author>,  <title level="m">Recueil des inscriptions grecques et latines de l'Égypte</title>, Paris: L'Imprimerie royal, <date>1848</date>. <citedRange>CCCXLIV</citedRange></bibl>
+                    <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; <author>Étienne Bernand</author>. <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title> «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31; Paris <date>1960</date>. <citedRange>29</citedRange></bibl>
+                    <bibl xml:id="PHI"><title>PHI</title> <citedRange>227950</citedRange>; <ref>http://epigraphy.packhum.org/text/227950</ref></bibl>
+                    <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. <title level="m">Gli epigrammi di Giulia Balbilla. Ricordi di una dama di corte e altri testi al femminile sul Colosso di Memnone.</title> Pensa Multimedia, <date>2011</date>. <citedRange>2</citedRange></bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

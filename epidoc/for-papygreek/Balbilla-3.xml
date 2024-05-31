@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Julia Balbilla, Epigram 3 (30)</title>
+                <editor xml:id="gb">Gabriel Bodard</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Institute of Classical Studies, University of London</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><msName>Bernand 30</msName></msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc><support><p>Colossus of Memnon (northernmost, or right-hand, of two Colossi of Amenhotep III).</p>
+                                <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/241">Statue</objectType>
+                                <material ref="https://www.eagle-network.eu/voc/material/lod/51.html">Quartzite sandstone</material>
+                                <dimensions><height unit="metre" precision="low">18</height></dimensions>
+                            </support></supportDesc>
+                            <layoutDesc><layout>Incised into the stone on the left leg.</layout></layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote></handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when="0130" period="http://n2t.net/ark:/99152/p077pzfwxfr">130 C.E.</origDate>
+                            <origPlace ref="https://pleiades.stoa.org/places/188894567" xml:id="origplace">Mortuary Temple of Amenhotep III,
+                                <placeName ref="https://pleiades.stoa.org/places/786067">Thebes</placeName>,
+                                <placeName ref="https://pleiades.stoa.org/places/766">Egypt</placeName>.</origPlace>
+                        </origin>
+                        <provenance type="found" sameAs="#origplace">In situ.</provenance>
+                        <provenance type="observed" sameAs="#origplace">In situ.</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile><surface/></facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><w>ὅτε</w> <w>τῇ</w> <w>πρώτῃ</w> <w>ἡμέρᾳ</w> <w>οὐκ</w> <w>ἀ
+       <lb n="2" break="no"/>κούσαμεν</w> <w>τοῦ</w> <persName type="divine"><name>Μέμνονος</name></persName>.
+                </ab>
+                <lg met="elegaic">
+                    <l n="1" met="hexameter" real="+++++++|--+--++"><lb n="3"/><w lemma="χθιζός">χθίσδον</w> <w lemma="μέν">μὲν</w> <persName type="divine"><name>Μέμνων</name></persName> <w lemma="σιγάω">σίγαις</w> <w>ἀπε<supplied reason="lost">δέξατ’</supplied></w> <w><supplied reason="lost">ἀκ</supplied>οίτα<supplied reason="lost" cert="low">ν</supplied></w><supplied reason="lost">,</supplied></l>
+                    <l n="2" met="pentameter" real="+++--+|+--+--+"><lb n="4"/><w>ὠς</w> <w>πάλιν</w> <w>ἀ</w> <w>κάλα</w> <w>τυῖδε</w> <persName type="ruler"><name>Σάβιννα</name></persName> <w><unclear>μ</unclear>ό<supplied reason="lost">λοι</supplied></w><supplied reason="lost">.</supplied></l>
+                    <l n="3" met="hexameter" real="+++--+++|--+--++"><lb n="5"/><w>τ<unclear>έ</unclear>ρπει</w> <w>γάρ</w> <w>σ’</w> <w>ἐράτα</w> <w>μόρφα</w> <w>βασιλήϊδος</w> <w>ἄ<unclear>μ</unclear>μας</w>,</l>
+                    <l n="4" met="pentameter" real="+++++|+--+--+"><lb n="6"/><w>ἐλθοίσαι</w> <w>δ’</w> <w><supplied reason="lost">α</supplied><unclear>ὔ</unclear>ται</w> <w>θήϊον</w> <w><unclear>ἄ</unclear>χον</w> <w>ἴη</w>,</l>
+                    <l n="5" met="hexameter" real="+++--+--+|--+--++"><lb n="7"/><w>μὴ</w> <w>καί</w> <w>τοι</w> <w>βασίλευς</w> <w>κοτ<unclear>έ</unclear>σῃ</w>, <w>τό</w> <w>νυ</w> <w>δᾶρον</w> <w>ἀτά<supplied reason="lost">ρβης</supplied></w></l>
+                    <l n="6" met="pentameter" real="+++--+|+--+--+"><lb n="8"/><w>τὰν</w> <w>σέμναν</w> <w>κατ<unclear>έχ</unclear>ες</w> <w>κουριδίαν</w> <w>ἄλοχον</w>.</l>
+                    <l n="7" met="hexameter" real="+++++--+|--+--+-"><lb n="9"/><w>κὠ</w> <persName type="divine"><name>Μέμνων</name></persName> <w>τρέσσαις</w> <w>μεγάλω</w> <w>μένος</w> <persName type="ruler"><name>Ἀδρι<supplied reason="lost">άνοιο</supplied></name></persName></l>
+                    <l n="8" met="pentameter" real="+--+++|+--+--+"><lb n="10"/><w>ἐξαπίνας</w> <w>αὔδασ’</w>, <w>ἀ</w> <w>δ’</w> <w>ὀΐοισ’</w> <w>ἐχάρη</w>.</l>
+                </lg>
+            </div>
+            <div type="translation" xml:lang="en" resp="#gb">
+                <p>When on the first day we did not hear Memnon. Yesterday Memnon received the spouse in silence, so that the fair Sabinna might come here again. </p>
+            </div>
+            <div type="translation" xml:lang="fr" source="#aeb1960">
+                <p>Puisque le premir jour nous n'avons pas entendu Memnon. Hier Memnon a gardé le silence pour recevoir l'époux, afin que la belle Sabine revienne ici. Car tu es charmé par l'aimable beauté de notre reine. Mais à son arrivée pousse un cri divin, de peur que le roi n'aille s'irriter contre toi : trop longtemps, dans ton audace, tu avais retenu son auguste et légitime épouse. Aussi Memnon, redoutant la puissance de grand Hadrien, se mit-il soudain à proférer un cri, qu'elle entendit, non sans joie.</p>
+            </div>
+            <div type="translation" xml:lang="it" source="#ac2011">
+                <p>Quando, nel primero giorno, non sentimmo Memnone.</p>
+                <p>
+                    <lb n="1"/>Ieri Memnone accolse in silenzio lo sposo,
+                    <lb n="2"/>perché di nuovo tornasse la bella Sabina qui.
+                    <lb n="3"/>Infatti il bell-aspetto della mia regina ti dà gioia;
+                    <lb n="4"/>ma a lei giunta lancia una divina armonia,
+                    <lb n="5"/>affinché il sovrano non si irriti contro di te; dunque a lungo
+                    <lb n="6"/>trattenesti, nella tue audacia, la veneranda e legittima sposa.
+                    <lb n="7"/>Così Memnone, temendo la potenza del grande Adriano
+                    <lb n="8"/>subito parlò, e quella udendolo ne gioì.
+                </p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl xml:id="aeb1960"><author>André Bernand</author> &amp; <author>Étienne Bernand</author>. <title level="m">Les inscriptions grecques et latines du Colosse de Memnon.</title> «Institut Français d'Archéologie Orientale, Bibliothèque d'étude», 31; Paris <date>1960</date>. <citedRange>30</citedRange></bibl>
+                    <bibl xml:id="PHI"><title>PHI</title> <citedRange>227951</citedRange>; <ref>http://epigraphy.packhum.org/text/227951</ref></bibl>
+                    <bibl xml:id="ac2011"><author>Amalia M. Cirio</author>. <title level="m">Gli epigrammi di Giulia Balbilla. Ricordi di una dama di corte e altri testi al femminile sul Colosso di Memnone.</title> Pensa Multimedia, <date>2011</date>. <citedRange>2</citedRange></bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
