@@ -21,7 +21,9 @@ This project will involve a digital edition and analysis of the extant works of 
 
 ### Bibliography of editions and translations
 
-* André & Étienne Bernand, _Les inscriptions grecques et latines du Colosse de Memnon_, 1960.
-* Amalia Cirio, _Gli epigrammi di Giulia Balbilla_, 2011.
-* Antoine Jean Letronne,  _Recueil des inscriptions grecques et latines de l'Égypte_, Paris: L'Imprimerie royal, 1848.
-* Patricia A. Rosenmeyer, _The Language of Ruins: Greek and Latin Inscriptions on the Memnon Colossus_, (2018).
+* Bernand, André & Étienne Bernard. 1960. Les inscriptions grecques et latines du Colosse de Memnon. Paris: Institut Français d’Archéologie Orientale. 
+* Cirio, Amalia Margherita. 2011. Gli epigrammi di Giulia Balbilla: (ricordi di una dama di corte) e altri testi al femminile sul colosso di Memnone. Satura: Testi e Studi di Litteratura antica 9. Pensa Multimedia.
+* Kaibel, G. 1878. Epigrammata Graeca ex lapidibus conlecta. Berlin: Reimer.
+* Letronne, Antoine-Jean. 1848. Recueil des inscriptions grecques et latines de l'Égypte. Paris: L'Imprimerie royale.
+* Peek, Werner. 1934. “Zu den Gdichten auf dem Memnonskoloss von Theben.” Mitteilungen des deutschen Instituts für Ägyptische Altertumskunde in Kairo 5-1: 95–127.
+* Rosenmeyer, Patricia A. 2018. The Language of Ruins: Greek and Latin inscriptions on the Memnon Colossus. Oxford University Press.
