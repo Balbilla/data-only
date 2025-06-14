@@ -6,7 +6,7 @@ This project will involve a digital edition and analysis of the extant works of 
 ### Technologies and methods to be included
 
 * EpiDoc encoding (including transcription, history and description, translation, tokenization and lemmatization, and metrical scansion)
-* Treebanking (using the [PapyGreek](https://papygreek.hum.helsinki.fi/) interface and [Arethusa](https://www.perseids.org/tools/arethusa/app/#/) tree editor)
+* Treebanking (using the [PapyGreek](https://papygreek.com/) interface and [Arethusa](https://www.perseids.org/tools/arethusa/app/#/) tree editor)
 * Translation alignment (using the [Ugarit aligner](http://ugarit.ialigner.com/) by Tariq Yousef)
 
 ### Identifiers for Julia Balbilla
