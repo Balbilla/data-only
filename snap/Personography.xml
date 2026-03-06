@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Persons mentioned in the poems of Julia Balbilla</title>
+            <editor xml:id="gb">Gabriel Bodard</editor>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Institute of Classical Studies, University of London</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listPerson>
+            <head>Historical people, rulers and royalty</head>
+            
+            <person xml:id="balbilla">
+               <persName xml:lang="en">Julia Balbilla</persName>
+               <persName xml:lang="grc">Ἰουλία Βαλβίλλη</persName>
+               <persName xml:lang="it">Giulia Balbilla</persName>
+               <birth when="0072">72 CE</birth>
+               <floruit when="0130">130 CE (texts)</floruit>
+               <listBibl>
+                  <bibl><idno type="SNAP">http://data.snapdrgn.net/person/7087</idno></bibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q441786</idno></bibl>
+                  <bibl><idno type="TM">https://www.trismegistos.org/person/85919</idno></bibl>
+                  <bibl><idno type="VIAF">https://viaf.org/viaf/34843877/</idno></bibl>
+                  <bibl><idno type="PIR" n="PIR² I 650">https://pir.bbaw.de/id/7153</idno></bibl>
+               </listBibl>
+            </person>
+            <relation active="#balbilla" ref="snap:daughterOf" passive="#antiochusep"><desc>Daughter of Antiochus Epiphanes</desc></relation>
+            <relation active="#balbilla" ref="snap:daughterOf" passive="#claudiacap"><desc>Daughter of Claudia Capitolina</desc></relation>
+                        
+            <person xml:id="hadrian">
+               <persName xml:lang="en">Hadrian</persName>
+               <persName xml:lang="grc">Ἁδριανός</persName>
+               <occupation>Σεβαστός</occupation>
+               <occupation>Παμβασιλεύς</occupation>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q1427</idno></bibl>
+                  <bibl><idno type="VIAF">https://viaf.org/viaf/82440741/</idno></bibl>
+                  <bibl><idno type="ISNI">http://www.isni.org/isni/0000000108449425</idno></bibl>
+                  <bibl><idno type="PIR" n="PIR² A 184">https://pir.bbaw.de/id/771</idno></bibl>
+               </listBibl>
+            </person>
+            <relation active="#hadrian" ref="snap:husbandOf" passive="#sabina"><desc>Husband of Sabina</desc></relation>
+            
+            <person xml:id="sabina">
+               <persName xml:lang="en">Sabina</persName>
+               <persName xml:lang="grc">Σαβείνη</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q232716</idno></bibl>
+                  <bibl><idno type="PIR" n="PIR² V1 414">https://pir.bbaw.de/id/14342</idno></bibl>
+               </listBibl>
+            </person>
+            <relation active="#sabina" ref="snap:wifeOf" passive="#hadrian"><desc>Wife of Hadrian</desc></relation>
+            
+            <person xml:id="antiochusep">
+               <persName>Antiochus Epiphanes</persName>
+            </person>
+            <relation active="#antiochusep" ref="snap:fatherOf" passive="#balbilla"><desc>Father of Julia Balbilla</desc></relation>
+            
+            <person xml:id="antiochusiv">
+               <persName></persName>
+            </person>
+            
+            <person xml:id="balbillus">
+               <persName></persName>
+            </person>
+            
+            <person xml:id="claudiacap">
+               <persName>Claudia Capitolina</persName>
+            </person>
+            <relation active="#claudiacap" ref="snap:motherOf" passive="#balbilla"><desc>Mother of Julia Balbilla</desc></relation>
+            
+            <person xml:id="trasillus">
+               <persName></persName>
+            </person>
+            
+            <person xml:id="kambyses2">
+               <persName xml:lang="en">Kambyses</persName>
+               <persName xml:lang="en">Cambyses II</persName>
+               <persName xml:lang="grc">Καμβύσαις</persName>
+               <persName xml:lang="fr">Cambyse</persName>
+               <persName xml:lang="it">Cambise</persName>
+               <persName xml:lang="peo">&#66467;&#66482;&#66466;&#66474;&#66465;&#66489;</persName>
+               <persName xml:lang="peo-Latn">Kambūjiya</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q182483</idno></bibl>
+               </listBibl>
+            </person>
+         </listPerson>
+         
+         <listPerson>
+            <head>Divinities and mythological figures</head>
+            
+            <person xml:id="memnon">
+               <persName xml:lang="en">Memnon</persName>
+               <persName xml:lang="grc">Μέμνων</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q506781</idno></bibl>
+               </listBibl>
+            </person>
+            <relation active="#memnon" ref="snap:SonOf" passive="#eos"><desc>Son of Eos</desc></relation>
+            
+            <person xml:id="eos">
+               <persName xml:lang="en">Eos</persName>
+               <persName xml:lang="en">Dawn</persName>
+               <persName xml:lang="grc">Ἔως</persName>
+               <persName xml:lang="fr">Aurore</persName>
+               <persName xml:lang="it">Aurora</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q178417</idno></bibl>
+               </listBibl>
+            </person>
+            <relation active="#eos" ref="snap:MotherOf" passive="#memnon"><desc>Mother of Memnon</desc></relation>
+            <relation active="#eos" ref="snap:IntimateRelationshipWith" passive="#tithonos"><desc>Lover of Tithonos</desc></relation>
+            
+            <person xml:id="tithonos">
+               <persName xml:lang="en">Tithonos</persName>
+               <persName xml:lang="grc">Τιθωνός</persName>
+               <persName xml:lang="la">Tithonus</persName>
+               <persName xml:lang="fr">Tithon</persName>
+               <persName xml:lang="it">Titono</persName>
+               <listBibl>
+                  <bibl><ref type="Wikidata">https://www.wikidata.org/wiki/Q737306</ref></bibl>
+               </listBibl>
+            </person>
+            <relation active="#tithonos" ref="snap:FatherOf" passive="#memnon"><desc>Father of Memnon</desc></relation>
+            <relation active="#tithonos" ref="snap:IntimateRelationshipWith" passive="#eos"><desc>Lover of Eos</desc></relation>
+            
+            <person xml:id="apis">
+               <persName xml:lang="en">Apis</persName>
+               <persName xml:lang="grc">Ἆπις</persName>
+               <persName xml:lang="egy-Latn">ḥjpw</persName>
+               <listBibl>
+                  <bibl><idno type="Wikidata">https://www.wikidata.org/wiki/Q208150</idno></bibl>
+               </listBibl>
+            </person>
+         </listPerson>
+      </body>
+  </text>
+</TEI>
